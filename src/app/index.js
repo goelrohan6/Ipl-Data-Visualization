@@ -3,7 +3,10 @@
 angular.module('iplApp', ['ngTouch', 'ngAnimate',
  'ui.router', 'ui.bootstrap', 'chart.js', 'app'])
 
-  .config(function ($stateProvider, $urlRouterProvider) {
+  .config(function ($stateProvider, $urlRouterProvider, ChartJsProvider) {
+    //ChartJs configs
+    ChartJsProvider.setOptions({ colors : [ '#803690', '#00ADF9', '#DCDCDC', '#46BFBD', '#FDB45C', '#949FB1', '#4D5360'] });
+    //Router configs
     $stateProvider
       .state('home', {
         url: '',
@@ -20,6 +23,5 @@ angular.module('iplApp', ['ngTouch', 'ngAnimate',
           title: 'Dashboard'
         }
       })
-
     $urlRouterProvider.otherwise('/dashboard');
   });
