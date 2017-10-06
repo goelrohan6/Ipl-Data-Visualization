@@ -1,17 +1,5 @@
 [
     {
-        "type": "header",
-        "version": "4.7.0",
-        "comment": "Export to JSON plugin for PHPMyAdmin"
-    },
-    {
-        "type": "database",
-        "name": "ipl"
-    },
-    {
-        "type": "table",
-        "name": "Matches",
-        "database": "ipl",
         "data": [
             {
                 "season": "2008",
