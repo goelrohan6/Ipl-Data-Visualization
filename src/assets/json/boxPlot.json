@@ -1,0 +1,69 @@
+[
+{
+    "data": [
+    {
+        "batting_team": "CSK",
+        "max": "246",
+        "min": "55"
+    },
+    {
+        "batting_team": "DC",
+        "max": "214",
+        "min": "82"
+    },
+    {
+        "batting_team": "DD",
+        "max": "231",
+        "min": "56"
+    },
+    {
+        "batting_team": "GL",
+        "max": "196",
+        "min": "104"
+    },
+    {
+        "batting_team": "KXP",
+        "max": "232",
+        "min": "88"
+    },
+    {
+        "batting_team": "KT",
+        "max": "184",
+        "min": "74"
+    },
+    {
+        "batting_team": "KKR",
+        "max": "222",
+        "min": "61"
+    },
+    {
+        "batting_team": "MI",
+        "max": "218",
+        "min": "68"
+    },
+    {
+        "batting_team": "PW",
+        "max": "192",
+        "min": "99"
+    },
+    {
+        "batting_team": "RR",
+        "max": "223",
+        "min": "58"
+    },
+    {
+        "batting_team": "RP",
+        "max": "195",
+        "min": "76"
+    },
+    {
+        "batting_team": "Royal Challengers Bangalore",
+        "max": "263",
+        "min": "2"
+    },
+    {
+        "batting_team": "SH",
+        "max": "208",
+        "min": "44"
+    }]
+}]
