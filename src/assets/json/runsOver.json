@@ -1,1304 +1,325 @@
-[
+[{
+    key: "RP",
+    values: [
+        [1, 72],
+        [2, 98],
+        [3, 104],
+        [4, 107],
+        [5, 110],
+        [6, 147],
+        [7, 106],
+        [8, 113],
+        [9, 111],
+        [10, 84],
+        [11, 113],
+        [12, 93],
+        [13, 91],
+        [14, 75],
+        [15, 109],
+        [16, 87],
+        [17, 113],
+        [18, 129],
+        [19, 77],
+        [20, 124]
+    ]
+},
 {
-    "data": [
-    {
-        "batting_team": "CSK",
-        "over": "1",
-        "SUM(total_runs)": "684"
-    },
-    {
-        "batting_team": "DC",
-        "over": "1",
-        "SUM(total_runs)": "482"
-    },
-    {
-        "batting_team": "DD",
-        "over": "1",
-        "SUM(total_runs)": "855"
-    },
-    {
-        "batting_team": "GL",
-        "over": "1",
-        "SUM(total_runs)": "96"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "1",
-        "SUM(total_runs)": "813"
-    },
-    {
-        "batting_team": "KT",
-        "over": "1",
-        "SUM(total_runs)": "103"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "1",
-        "SUM(total_runs)": "871"
-    },
-    {
-        "batting_team": "MI",
-        "over": "1",
-        "SUM(total_runs)": "753"
-    },
-    {
-        "batting_team": "PW",
-        "over": "1",
-        "SUM(total_runs)": "264"
-    },
-    {
-        "batting_team": "RR",
-        "over": "1",
-        "SUM(total_runs)": "713"
-    },
-    {
-        "batting_team": "RP",
-        "over": "1",
-        "SUM(total_runs)": "72"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "1",
-        "SUM(total_runs)": "836"
-    },
-    {
-        "batting_team": "SH",
-        "over": "1",
-        "SUM(total_runs)": "403"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "2",
-        "SUM(total_runs)": "944"
-    },
-    {
-        "batting_team": "DC",
-        "over": "2",
-        "SUM(total_runs)": "614"
-    },
-    {
-        "batting_team": "DD",
-        "over": "2",
-        "SUM(total_runs)": "1016"
-    },
-    {
-        "batting_team": "GL",
-        "over": "2",
-        "SUM(total_runs)": "108"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "2",
-        "SUM(total_runs)": "942"
-    },
-    {
-        "batting_team": "KT",
-        "over": "2",
-        "SUM(total_runs)": "96"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "2",
-        "SUM(total_runs)": "947"
-    },
-    {
-        "batting_team": "MI",
-        "over": "2",
-        "SUM(total_runs)": "898"
-    },
-    {
-        "batting_team": "PW",
-        "over": "2",
-        "SUM(total_runs)": "301"
-    },
-    {
-        "batting_team": "RR",
-        "over": "2",
-        "SUM(total_runs)": "740"
-    },
-    {
-        "batting_team": "RP",
-        "over": "2",
-        "SUM(total_runs)": "98"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "2",
-        "SUM(total_runs)": "918"
-    },
-    {
-        "batting_team": "SH",
-        "over": "2",
-        "SUM(total_runs)": "450"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "3",
-        "SUM(total_runs)": "1020"
-    },
-    {
-        "batting_team": "DC",
-        "over": "3",
-        "SUM(total_runs)": "566"
-    },
-    {
-        "batting_team": "DD",
-        "over": "3",
-        "SUM(total_runs)": "1012"
-    },
-    {
-        "batting_team": "GL",
-        "over": "3",
-        "SUM(total_runs)": "154"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "3",
-        "SUM(total_runs)": "1047"
-    },
-    {
-        "batting_team": "KT",
-        "over": "3",
-        "SUM(total_runs)": "115"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "3",
-        "SUM(total_runs)": "995"
-    },
-    {
-        "batting_team": "MI",
-        "over": "3",
-        "SUM(total_runs)": "989"
-    },
-    {
-        "batting_team": "PW",
-        "over": "3",
-        "SUM(total_runs)": "357"
-    },
-    {
-        "batting_team": "RR",
-        "over": "3",
-        "SUM(total_runs)": "848"
-    },
-    {
-        "batting_team": "RP",
-        "over": "3",
-        "SUM(total_runs)": "104"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "3",
-        "SUM(total_runs)": "1088"
-    },
-    {
-        "batting_team": "SH",
-        "over": "3",
-        "SUM(total_runs)": "467"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "4",
-        "SUM(total_runs)": "1086"
-    },
-    {
-        "batting_team": "DC",
-        "over": "4",
-        "SUM(total_runs)": "571"
-    },
-    {
-        "batting_team": "DD",
-        "over": "4",
-        "SUM(total_runs)": "1068"
-    },
-    {
-        "batting_team": "GL",
-        "over": "4",
-        "SUM(total_runs)": "135"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "4",
-        "SUM(total_runs)": "1098"
-    },
-    {
-        "batting_team": "KT",
-        "over": "4",
-        "SUM(total_runs)": "126"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "4",
-        "SUM(total_runs)": "1053"
-    },
-    {
-        "batting_team": "MI",
-        "over": "4",
-        "SUM(total_runs)": "1111"
-    },
-    {
-        "batting_team": "PW",
-        "over": "4",
-        "SUM(total_runs)": "329"
-    },
-    {
-        "batting_team": "RR",
-        "over": "4",
-        "SUM(total_runs)": "936"
-    },
-    {
-        "batting_team": "RP",
-        "over": "4",
-        "SUM(total_runs)": "107"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "4",
-        "SUM(total_runs)": "1099"
-    },
-    {
-        "batting_team": "SH",
-        "over": "4",
-        "SUM(total_runs)": "484"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "5",
-        "SUM(total_runs)": "1140"
-    },
-    {
-        "batting_team": "DC",
-        "over": "5",
-        "SUM(total_runs)": "586"
-    },
-    {
-        "batting_team": "DD",
-        "over": "5",
-        "SUM(total_runs)": "1070"
-    },
-    {
-        "batting_team": "GL",
-        "over": "5",
-        "SUM(total_runs)": "148"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "5",
-        "SUM(total_runs)": "1109"
-    },
-    {
-        "batting_team": "KT",
-        "over": "5",
-        "SUM(total_runs)": "97"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "5",
-        "SUM(total_runs)": "1025"
-    },
-    {
-        "batting_team": "MI",
-        "over": "5",
-        "SUM(total_runs)": "1120"
-    },
-    {
-        "batting_team": "PW",
-        "over": "5",
-        "SUM(total_runs)": "316"
-    },
-    {
-        "batting_team": "RR",
-        "over": "5",
-        "SUM(total_runs)": "874"
-    },
-    {
-        "batting_team": "RP",
-        "over": "5",
-        "SUM(total_runs)": "110"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "5",
-        "SUM(total_runs)": "1113"
-    },
-    {
-        "batting_team": "SH",
-        "over": "5",
-        "SUM(total_runs)": "517"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "6",
-        "SUM(total_runs)": "1147"
-    },
-    {
-        "batting_team": "DC",
-        "over": "6",
-        "SUM(total_runs)": "598"
-    },
-    {
-        "batting_team": "DD",
-        "over": "6",
-        "SUM(total_runs)": "960"
-    },
-    {
-        "batting_team": "GL",
-        "over": "6",
-        "SUM(total_runs)": "155"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "6",
-        "SUM(total_runs)": "1151"
-    },
-    {
-        "batting_team": "KT",
-        "over": "6",
-        "SUM(total_runs)": "143"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "6",
-        "SUM(total_runs)": "968"
-    },
-    {
-        "batting_team": "MI",
-        "over": "6",
-        "SUM(total_runs)": "1201"
-    },
-    {
-        "batting_team": "PW",
-        "over": "6",
-        "SUM(total_runs)": "328"
-    },
-    {
-        "batting_team": "RR",
-        "over": "6",
-        "SUM(total_runs)": "954"
-    },
-    {
-        "batting_team": "RP",
-        "over": "6",
-        "SUM(total_runs)": "147"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "6",
-        "SUM(total_runs)": "1040"
-    },
-    {
-        "batting_team": "SH",
-        "over": "6",
-        "SUM(total_runs)": "498"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "7",
-        "SUM(total_runs)": "909"
-    },
-    {
-        "batting_team": "DC",
-        "over": "7",
-        "SUM(total_runs)": "472"
-    },
-    {
-        "batting_team": "DD",
-        "over": "7",
-        "SUM(total_runs)": "961"
-    },
-    {
-        "batting_team": "GL",
-        "over": "7",
-        "SUM(total_runs)": "146"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "7",
-        "SUM(total_runs)": "908"
-    },
-    {
-        "batting_team": "KT",
-        "over": "7",
-        "SUM(total_runs)": "89"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "7",
-        "SUM(total_runs)": "869"
-    },
-    {
-        "batting_team": "MI",
-        "over": "7",
-        "SUM(total_runs)": "899"
-    },
-    {
-        "batting_team": "PW",
-        "over": "7",
-        "SUM(total_runs)": "246"
-    },
-    {
-        "batting_team": "RR",
-        "over": "7",
-        "SUM(total_runs)": "776"
-    },
-    {
-        "batting_team": "RP",
-        "over": "7",
-        "SUM(total_runs)": "106"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "7",
-        "SUM(total_runs)": "855"
-    },
-    {
-        "batting_team": "SH",
-        "over": "7",
-        "SUM(total_runs)": "383"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "8",
-        "SUM(total_runs)": "970"
-    },
-    {
-        "batting_team": "DC",
-        "over": "8",
-        "SUM(total_runs)": "539"
-    },
-    {
-        "batting_team": "DD",
-        "over": "8",
-        "SUM(total_runs)": "920"
-    },
-    {
-        "batting_team": "GL",
-        "over": "8",
-        "SUM(total_runs)": "128"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "8",
-        "SUM(total_runs)": "1032"
-    },
-    {
-        "batting_team": "KT",
-        "over": "8",
-        "SUM(total_runs)": "86"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "8",
-        "SUM(total_runs)": "836"
-    },
-    {
-        "batting_team": "MI",
-        "over": "8",
-        "SUM(total_runs)": "953"
-    },
-    {
-        "batting_team": "PW",
-        "over": "8",
-        "SUM(total_runs)": "317"
-    },
-    {
-        "batting_team": "RR",
-        "over": "8",
-        "SUM(total_runs)": "826"
-    },
-    {
-        "batting_team": "RP",
-        "over": "8",
-        "SUM(total_runs)": "113"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "8",
-        "SUM(total_runs)": "1028"
-    },
-    {
-        "batting_team": "SH",
-        "over": "8",
-        "SUM(total_runs)": "403"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "9",
-        "SUM(total_runs)": "980"
-    },
-    {
-        "batting_team": "DC",
-        "over": "9",
-        "SUM(total_runs)": "519"
-    },
-    {
-        "batting_team": "DD",
-        "over": "9",
-        "SUM(total_runs)": "985"
-    },
-    {
-        "batting_team": "GL",
-        "over": "9",
-        "SUM(total_runs)": "97"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "9",
-        "SUM(total_runs)": "985"
-    },
-    {
-        "batting_team": "KT",
-        "over": "9",
-        "SUM(total_runs)": "88"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "9",
-        "SUM(total_runs)": "882"
-    },
-    {
-        "batting_team": "MI",
-        "over": "9",
-        "SUM(total_runs)": "987"
-    },
-    {
-        "batting_team": "PW",
-        "over": "9",
-        "SUM(total_runs)": "296"
-    },
-    {
-        "batting_team": "RR",
-        "over": "9",
-        "SUM(total_runs)": "873"
-    },
-    {
-        "batting_team": "RP",
-        "over": "9",
-        "SUM(total_runs)": "111"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "9",
-        "SUM(total_runs)": "1097"
-    },
-    {
-        "batting_team": "SH",
-        "over": "9",
-        "SUM(total_runs)": "425"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "10",
-        "SUM(total_runs)": "902"
-    },
-    {
-        "batting_team": "DC",
-        "over": "10",
-        "SUM(total_runs)": "502"
-    },
-    {
-        "batting_team": "DD",
-        "over": "10",
-        "SUM(total_runs)": "950"
-    },
-    {
-        "batting_team": "GL",
-        "over": "10",
-        "SUM(total_runs)": "130"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "10",
-        "SUM(total_runs)": "997"
-    },
-    {
-        "batting_team": "KT",
-        "over": "10",
-        "SUM(total_runs)": "77"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "10",
-        "SUM(total_runs)": "922"
-    },
-    {
-        "batting_team": "MI",
-        "over": "10",
-        "SUM(total_runs)": "959"
-    },
-    {
-        "batting_team": "PW",
-        "over": "10",
-        "SUM(total_runs)": "285"
-    },
-    {
-        "batting_team": "RR",
-        "over": "10",
-        "SUM(total_runs)": "931"
-    },
-    {
-        "batting_team": "RP",
-        "over": "10",
-        "SUM(total_runs)": "84"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "10",
-        "SUM(total_runs)": "1023"
-    },
-    {
-        "batting_team": "SH",
-        "over": "10",
-        "SUM(total_runs)": "406"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "11",
-        "SUM(total_runs)": "975"
-    },
-    {
-        "batting_team": "DC",
-        "over": "11",
-        "SUM(total_runs)": "563"
-    },
-    {
-        "batting_team": "DD",
-        "over": "11",
-        "SUM(total_runs)": "1017"
-    },
-    {
-        "batting_team": "GL",
-        "over": "11",
-        "SUM(total_runs)": "117"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "11",
-        "SUM(total_runs)": "1064"
-    },
-    {
-        "batting_team": "KT",
-        "over": "11",
-        "SUM(total_runs)": "81"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "11",
-        "SUM(total_runs)": "949"
-    },
-    {
-        "batting_team": "MI",
-        "over": "11",
-        "SUM(total_runs)": "976"
-    },
-    {
-        "batting_team": "PW",
-        "over": "11",
-        "SUM(total_runs)": "319"
-    },
-    {
-        "batting_team": "RR",
-        "over": "11",
-        "SUM(total_runs)": "890"
-    },
-    {
-        "batting_team": "RP",
-        "over": "11",
-        "SUM(total_runs)": "113"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "11",
-        "SUM(total_runs)": "1099"
-    },
-    {
-        "batting_team": "SH",
-        "over": "11",
-        "SUM(total_runs)": "393"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "12",
-        "SUM(total_runs)": "1029"
-    },
-    {
-        "batting_team": "DC",
-        "over": "12",
-        "SUM(total_runs)": "623"
-    },
-    {
-        "batting_team": "DD",
-        "over": "12",
-        "SUM(total_runs)": "992"
-    },
-    {
-        "batting_team": "GL",
-        "over": "12",
-        "SUM(total_runs)": "108"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "12",
-        "SUM(total_runs)": "1030"
-    },
-    {
-        "batting_team": "KT",
-        "over": "12",
-        "SUM(total_runs)": "104"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "12",
-        "SUM(total_runs)": "948"
-    },
-    {
-        "batting_team": "MI",
-        "over": "12",
-        "SUM(total_runs)": "1138"
-    },
-    {
-        "batting_team": "PW",
-        "over": "12",
-        "SUM(total_runs)": "324"
-    },
-    {
-        "batting_team": "RR",
-        "over": "12",
-        "SUM(total_runs)": "950"
-    },
-    {
-        "batting_team": "RP",
-        "over": "12",
-        "SUM(total_runs)": "93"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "12",
-        "SUM(total_runs)": "1003"
-    },
-    {
-        "batting_team": "SH",
-        "over": "12",
-        "SUM(total_runs)": "439"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "13",
-        "SUM(total_runs)": "989"
-    },
-    {
-        "batting_team": "DC",
-        "over": "13",
-        "SUM(total_runs)": "521"
-    },
-    {
-        "batting_team": "DD",
-        "over": "13",
-        "SUM(total_runs)": "1036"
-    },
-    {
-        "batting_team": "GL",
-        "over": "13",
-        "SUM(total_runs)": "107"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "13",
-        "SUM(total_runs)": "1040"
-    },
-    {
-        "batting_team": "KT",
-        "over": "13",
-        "SUM(total_runs)": "108"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "13",
-        "SUM(total_runs)": "1022"
-    },
-    {
-        "batting_team": "MI",
-        "over": "13",
-        "SUM(total_runs)": "1113"
-    },
-    {
-        "batting_team": "PW",
-        "over": "13",
-        "SUM(total_runs)": "306"
-    },
-    {
-        "batting_team": "RR",
-        "over": "13",
-        "SUM(total_runs)": "920"
-    },
-    {
-        "batting_team": "RP",
-        "over": "13",
-        "SUM(total_runs)": "91"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "13",
-        "SUM(total_runs)": "1071"
-    },
-    {
-        "batting_team": "SH",
-        "over": "13",
-        "SUM(total_runs)": "404"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "14",
-        "SUM(total_runs)": "1085"
-    },
-    {
-        "batting_team": "DC",
-        "over": "14",
-        "SUM(total_runs)": "569"
-    },
-    {
-        "batting_team": "DD",
-        "over": "14",
-        "SUM(total_runs)": "995"
-    },
-    {
-        "batting_team": "GL",
-        "over": "14",
-        "SUM(total_runs)": "128"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "14",
-        "SUM(total_runs)": "1069"
-    },
-    {
-        "batting_team": "KT",
-        "over": "14",
-        "SUM(total_runs)": "86"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "14",
-        "SUM(total_runs)": "961"
-    },
-    {
-        "batting_team": "MI",
-        "over": "14",
-        "SUM(total_runs)": "1100"
-    },
-    {
-        "batting_team": "PW",
-        "over": "14",
-        "SUM(total_runs)": "311"
-    },
-    {
-        "batting_team": "RR",
-        "over": "14",
-        "SUM(total_runs)": "969"
-    },
-    {
-        "batting_team": "RP",
-        "over": "14",
-        "SUM(total_runs)": "75"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "14",
-        "SUM(total_runs)": "1145"
-    },
-    {
-        "batting_team": "SH",
-        "over": "14",
-        "SUM(total_runs)": "448"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "15",
-        "SUM(total_runs)": "1113"
-    },
-    {
-        "batting_team": "DC",
-        "over": "15",
-        "SUM(total_runs)": "605"
-    },
-    {
-        "batting_team": "DD",
-        "over": "15",
-        "SUM(total_runs)": "880"
-    },
-    {
-        "batting_team": "GL",
-        "over": "15",
-        "SUM(total_runs)": "112"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "15",
-        "SUM(total_runs)": "1085"
-    },
-    {
-        "batting_team": "KT",
-        "over": "15",
-        "SUM(total_runs)": "112"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "15",
-        "SUM(total_runs)": "1031"
-    },
-    {
-        "batting_team": "MI",
-        "over": "15",
-        "SUM(total_runs)": "1195"
-    },
-    {
-        "batting_team": "PW",
-        "over": "15",
-        "SUM(total_runs)": "326"
-    },
-    {
-        "batting_team": "RR",
-        "over": "15",
-        "SUM(total_runs)": "983"
-    },
-    {
-        "batting_team": "RP",
-        "over": "15",
-        "SUM(total_runs)": "109"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "15",
-        "SUM(total_runs)": "1148"
-    },
-    {
-        "batting_team": "SH",
-        "over": "15",
-        "SUM(total_runs)": "563"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "16",
-        "SUM(total_runs)": "1106"
-    },
-    {
-        "batting_team": "DC",
-        "over": "16",
-        "SUM(total_runs)": "594"
-    },
-    {
-        "batting_team": "DD",
-        "over": "16",
-        "SUM(total_runs)": "1008"
-    },
-    {
-        "batting_team": "GL",
-        "over": "16",
-        "SUM(total_runs)": "137"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "16",
-        "SUM(total_runs)": "1115"
-    },
-    {
-        "batting_team": "KT",
-        "over": "16",
-        "SUM(total_runs)": "53"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "16",
-        "SUM(total_runs)": "1059"
-    },
-    {
-        "batting_team": "MI",
-        "over": "16",
-        "SUM(total_runs)": "1239"
-    },
-    {
-        "batting_team": "PW",
-        "over": "16",
-        "SUM(total_runs)": "373"
-    },
-    {
-        "batting_team": "RR",
-        "over": "16",
-        "SUM(total_runs)": "922"
-    },
-    {
-        "batting_team": "RP",
-        "over": "16",
-        "SUM(total_runs)": "87"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "16",
-        "SUM(total_runs)": "1241"
-    },
-    {
-        "batting_team": "SH",
-        "over": "16",
-        "SUM(total_runs)": "508"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "17",
-        "SUM(total_runs)": "1226"
-    },
-    {
-        "batting_team": "DC",
-        "over": "17",
-        "SUM(total_runs)": "702"
-    },
-    {
-        "batting_team": "DD",
-        "over": "17",
-        "SUM(total_runs)": "1042"
-    },
-    {
-        "batting_team": "GL",
-        "over": "17",
-        "SUM(total_runs)": "131"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "17",
-        "SUM(total_runs)": "1129"
-    },
-    {
-        "batting_team": "KT",
-        "over": "17",
-        "SUM(total_runs)": "82"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "17",
-        "SUM(total_runs)": "1170"
-    },
-    {
-        "batting_team": "MI",
-        "over": "17",
-        "SUM(total_runs)": "1276"
-    },
-    {
-        "batting_team": "PW",
-        "over": "17",
-        "SUM(total_runs)": "323"
-    },
-    {
-        "batting_team": "RR",
-        "over": "17",
-        "SUM(total_runs)": "1013"
-    },
-    {
-        "batting_team": "RP",
-        "over": "17",
-        "SUM(total_runs)": "113"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "17",
-        "SUM(total_runs)": "1198"
-    },
-    {
-        "batting_team": "SH",
-        "over": "17",
-        "SUM(total_runs)": "479"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "18",
-        "SUM(total_runs)": "1198"
-    },
-    {
-        "batting_team": "DC",
-        "over": "18",
-        "SUM(total_runs)": "671"
-    },
-    {
-        "batting_team": "DD",
-        "over": "18",
-        "SUM(total_runs)": "1055"
-    },
-    {
-        "batting_team": "GL",
-        "over": "18",
-        "SUM(total_runs)": "122"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "18",
-        "SUM(total_runs)": "1135"
-    },
-    {
-        "batting_team": "KT",
-        "over": "18",
-        "SUM(total_runs)": "85"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "18",
-        "SUM(total_runs)": "1149"
-    },
-    {
-        "batting_team": "MI",
-        "over": "18",
-        "SUM(total_runs)": "1291"
-    },
-    {
-        "batting_team": "PW",
-        "over": "18",
-        "SUM(total_runs)": "348"
-    },
-    {
-        "batting_team": "RR",
-        "over": "18",
-        "SUM(total_runs)": "916"
-    },
-    {
-        "batting_team": "RP",
-        "over": "18",
-        "SUM(total_runs)": "129"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "18",
-        "SUM(total_runs)": "1314"
-    },
-    {
-        "batting_team": "SH",
-        "over": "18",
-        "SUM(total_runs)": "542"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "19",
-        "SUM(total_runs)": "1205"
-    },
-    {
-        "batting_team": "DC",
-        "over": "19",
-        "SUM(total_runs)": "610"
-    },
-    {
-        "batting_team": "DD",
-        "over": "19",
-        "SUM(total_runs)": "1006"
-    },
-    {
-        "batting_team": "GL",
-        "over": "19",
-        "SUM(total_runs)": "103"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "19",
-        "SUM(total_runs)": "1083"
-    },
-    {
-        "batting_team": "KT",
-        "over": "19",
-        "SUM(total_runs)": "94"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "19",
-        "SUM(total_runs)": "967"
-    },
-    {
-        "batting_team": "MI",
-        "over": "19",
-        "SUM(total_runs)": "1295"
-    },
-    {
-        "batting_team": "PW",
-        "over": "19",
-        "SUM(total_runs)": "351"
-    },
-    {
-        "batting_team": "RR",
-        "over": "19",
-        "SUM(total_runs)": "866"
-    },
-    {
-        "batting_team": "RP",
-        "over": "19",
-        "SUM(total_runs)": "77"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "19",
-        "SUM(total_runs)": "1228"
-    },
-    {
-        "batting_team": "SH",
-        "over": "19",
-        "SUM(total_runs)": "608"
-    },
-    {
-        "batting_team": "CSK",
-        "over": "20",
-        "SUM(total_runs)": "1191"
-    },
-    {
-        "batting_team": "DC",
-        "over": "20",
-        "SUM(total_runs)": "556"
-    },
-    {
-        "batting_team": "DD",
-        "over": "20",
-        "SUM(total_runs)": "906"
-    },
-    {
-        "batting_team": "GL",
-        "over": "20",
-        "SUM(total_runs)": "88"
-    },
-    {
-        "batting_team": "KXP",
-        "over": "20",
-        "SUM(total_runs)": "1029"
-    },
-    {
-        "batting_team": "KT",
-        "over": "20",
-        "SUM(total_runs)": "76"
-    },
-    {
-        "batting_team": "KKR",
-        "over": "20",
-        "SUM(total_runs)": "857"
-    },
-    {
-        "batting_team": "MI",
-        "over": "20",
-        "SUM(total_runs)": "1228"
-    },
-    {
-        "batting_team": "PW",
-        "over": "20",
-        "SUM(total_runs)": "338"
-    },
-    {
-        "batting_team": "RR",
-        "over": "20",
-        "SUM(total_runs)": "803"
-    },
-    {
-        "batting_team": "RP",
-        "over": "20",
-        "SUM(total_runs)": "124"
-    },
-    {
-        "batting_team": "RCB",
-        "over": "20",
-        "SUM(total_runs)": "1047"
-    },
-    {
-        "batting_team": "SH",
-        "over": "20",
-        "SUM(total_runs)": "483"
-    }]
+    key: "PW",
+    values: [
+        [1, 264],
+        [2, 301],
+        [3, 357],
+        [4, 329],
+        [5, 316],
+        [6, 328],
+        [7, 246],
+        [8, 317],
+        [9, 296],
+        [10, 285],
+        [11, 319],
+        [12, 324],
+        [13, 306],
+        [14, 311],
+        [15, 326],
+        [16, 373],
+        [17, 323],
+        [18, 348],
+        [19, 351],
+        [20, 338]
+    ]
+},
+{
+    key: "CSK",
+    values: [
+        [1, 684],
+        [2, 944],
+        [3, 1020],
+        [4, 1086],
+        [5, 1140],
+        [6, 1147],
+        [7, 909],
+        [8, 970],
+        [9, 980],
+        [10, 902],
+        [11, 975],
+        [12, 1029],
+        [13, 989],
+        [14, 1085],
+        [15, 1113],
+        [16, 1106],
+        [17, 1226],
+        [18, 1198],
+        [19, 1205],
+        [20, 1191]
+    ]
+},
+{
+    key: "DD",
+    values: [
+        [1, 855],
+        [2, 1016],
+        [3, 1012],
+        [4, 1068],
+        [5, 1070],
+        [6, 960],
+        [7, 961],
+        [8, 920],
+        [9, 985],
+        [10, 950],
+        [11, 1017],
+        [12, 992],
+        [13, 1036],
+        [14, 995],
+        [15, 880],
+        [16, 1008],
+        [17, 1042],
+        [18, 1055],
+        [19, 1006],
+        [20, 906]
+    ]
+},
+{
+    key: "RR",
+    values: [
+        [1, 713],
+        [2, 740],
+        [3, 848],
+        [4, 936],
+        [5, 874],
+        [6, 954],
+        [7, 776],
+        [8, 826],
+        [9, 873],
+        [10, 931],
+        [11, 890],
+        [12, 950],
+        [13, 920],
+        [14, 969],
+        [15, 983],
+        [16, 922],
+        [17, 1013],
+        [18, 916],
+        [19, 866],
+        [20, 803]
+    ]
+},
+{
+    key: "MI",
+    values: [
+        [1, 753],
+        [2, 898],
+        [3, 989],
+        [4, 1111],
+        [5, 1120],
+        [6, 1201],
+        [7, 899],
+        [8, 953],
+        [9, 987],
+        [10, 959],
+        [11, 976],
+        [12, 1138],
+        [13, 1113],
+        [14, 1100],
+        [15, 1195],
+        [16, 1239],
+        [17, 1276],
+        [18, 1291],
+        [19, 1295],
+        [20, 1228]
+    ]
+},
+{
+    key: "DC",
+    values: [
+        [1, 482],
+        [2, 614],
+        [3, 566],
+        [4, 571],
+        [5, 586],
+        [6, 598],
+        [7, 472],
+        [8, 539],
+        [9, 519],
+        [10, 502],
+        [11, 563],
+        [12, 623],
+        [13, 521],
+        [14, 569],
+        [15, 605],
+        [16, 594],
+        [17, 702],
+        [18, 671],
+        [19, 610],
+        [20, 556]
+    ]
+},
+{
+    key: "KKR",
+    values: [
+        [1, 871],
+        [2, 947],
+        [3, 995],
+        [4, 1053],
+        [5, 1025],
+        [6, 968],
+        [7, 869],
+        [8, 836],
+        [9, 882],
+        [10, 922],
+        [11, 949],
+        [12, 948],
+        [13, 1022],
+        [14, 961],
+        [15, 1031],
+        [16, 1059],
+        [17, 1170],
+        [18, 1149],
+        [19, 967],
+        [20, 857]
+    ]
+},
+{
+    key: "SH",
+    values: [
+        [1, 403],
+        [2, 450],
+        [3, 467],
+        [4, 484],
+        [5, 517],
+        [6, 498],
+        [7, 383],
+        [8, 403],
+        [9, 425],
+        [10, 406],
+        [11, 393],
+        [12, 439],
+        [13, 404],
+        [14, 448],
+        [15, 563],
+        [16, 508],
+        [17, 479],
+        [18, 542],
+        [19, 608],
+        [20, 483]
+    ]
+},
+{
+    key: "KT",
+    values: [
+        [1, 103],
+        [2, 96],
+        [3, 115],
+        [4, 126],
+        [5, 97],
+        [6, 143],
+        [7, 89],
+        [8, 86],
+        [9, 88],
+        [10, 77],
+        [11, 81],
+        [12, 104],
+        [13, 108],
+        [14, 86],
+        [15, 112],
+        [16, 53],
+        [17, 82],
+        [18, 85],
+        [19, 94],
+        [20, 76]
+    ]
+},
+{
+    key: "KXP",
+    values: [
+        [1, 813],
+        [2, 942],
+        [3, 1047],
+        [4, 1098],
+        [5, 1109],
+        [6, 1151],
+        [7, 908],
+        [8, 1032],
+        [9, 985],
+        [10, 997],
+        [11, 1064],
+        [12, 1030],
+        [13, 1040],
+        [14, 1069],
+        [15, 1085],
+        [16, 1115],
+        [17, 1129],
+        [18, 1135],
+        [19, 1083],
+        [20, 1029]
+    ]
+},
+{
+    key: "GL",
+    values: [
+        [1, 96],
+        [2, 108],
+        [3, 154],
+        [4, 135],
+        [5, 148],
+        [6, 155],
+        [7, 146],
+        [8, 128],
+        [9, 97],
+        [10, 130],
+        [11, 117],
+        [12, 108],
+        [13, 107],
+        [14, 128],
+        [15, 112],
+        [16, 137],
+        [17, 131],
+        [18, 122],
+        [19, 103],
+        [20, 88]
+    ]
+},
+{
+    key: "RCB",
+    values: [
+        [1, 836],
+        [2, 918],
+        [3, 1088],
+        [4, 1099],
+        [5, 1113],
+        [6, 1040],
+        [7, 855],
+        [8, 1028],
+        [9, 1097],
+        [10, 1023],
+        [11, 1099],
+        [12, 1003],
+        [13, 1071],
+        [14, 1145],
+        [15, 1148],
+        [16, 1241],
+        [17, 1198],
+        [18, 1314],
+        [19, 1228],
+        [20, 1047]
+    ]
 }]
