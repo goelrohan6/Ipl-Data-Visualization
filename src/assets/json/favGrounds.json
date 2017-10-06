@@ -1,0 +1,43 @@
+[
+{"type":"header","version":"4.7.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"ipl"},
+{"type":"table","name":"matches","database":"ipl","data":
+[
+{"venue":"M Chinnaswamy Stadium","total":"58"},
+{"venue":"Eden Gardens","total":"54"},
+{"venue":"Feroz Shah Kotla","total":"53"},
+{"venue":"Wankhede Stadium","total":"49"},
+{"venue":"MA Chidambaram Stadium, Chepauk","total":"48"},
+{"venue":"Rajiv Gandhi International Stadium, Uppal","total":"41"},
+{"venue":"Punjab Cricket Association Stadium, Mohali","total":"35"},
+{"venue":"Sawai Mansingh Stadium","total":"33"},
+{"venue":"Dr DY Patil Sports Academy","total":"17"},
+{"venue":"Subrata Roy Sahara Stadium","total":"17"},
+{"venue":"Kingsmead","total":"15"},
+{"venue":"Sardar Patel Stadium, Motera","total":"12"},
+{"venue":"SuperSport Park","total":"12"},
+{"venue":"Brabourne Stadium","total":"11"},
+{"venue":"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","total":"11"},
+{"venue":"Himachal Pradesh Cricket Association Stadium","total":"9"},
+{"venue":"New Wanderers Stadium","total":"8"},
+{"venue":"Maharashtra Cricket Association Stadium","total":"8"},
+{"venue":"Punjab Cricket Association IS Bindra Stadium, Mohali","total":"7"},
+{"venue":"Sheikh Zayed Stadium","total":"7"},
+{"venue":"Barabati Stadium","total":"7"},
+{"venue":"St George's Park","total":"7"},
+{"venue":"Dubai International Cricket Stadium","total":"7"},
+{"venue":"JSCA International Stadium Complex","total":"7"},
+{"venue":"Newlands","total":"7"},
+{"venue":"Sharjah Cricket Stadium","total":"6"},
+{"venue":"Shaheed Veer Narayan Singh International Stadium","total":"6"},
+{"venue":"Nehru Stadium","total":"5"},
+{"venue":"Saurashtra Cricket Association Stadium","total":"5"},
+{"venue":"Vidarbha Cricket Association Stadium, Jamtha","total":"3"},
+{"venue":"Buffalo Park","total":"3"},
+{"venue":"De Beers Diamond Oval","total":"3"},
+{"venue":"Holkar Cricket Stadium","total":"2"},
+{"venue":"Green Park","total":"2"},
+{"venue":"OUTsurance Oval","total":"2"}
+]
+}
+]
