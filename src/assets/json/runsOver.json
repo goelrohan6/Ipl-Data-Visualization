@@ -1,1315 +1,1303 @@
 [
 {
-    "type": "header",
-    "version": "4.7.0",
-    "comment": "Export to JSON plugin for PHPMyAdmin"
-},
-{
-    "type": "database",
-    "name": "ipl"
-},
-{
-    "type": "table",
-    "name": "runsover",
-    "database": "ipl",
     "data": [
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "1",
         "SUM(total_runs)": "684"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "1",
         "SUM(total_runs)": "482"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "1",
         "SUM(total_runs)": "855"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "1",
         "SUM(total_runs)": "96"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "1",
         "SUM(total_runs)": "813"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "1",
         "SUM(total_runs)": "103"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "1",
         "SUM(total_runs)": "871"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "1",
         "SUM(total_runs)": "753"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "1",
         "SUM(total_runs)": "264"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "1",
         "SUM(total_runs)": "713"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "1",
         "SUM(total_runs)": "72"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "1",
         "SUM(total_runs)": "836"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "1",
         "SUM(total_runs)": "403"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "2",
         "SUM(total_runs)": "944"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "2",
         "SUM(total_runs)": "614"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "2",
         "SUM(total_runs)": "1016"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "2",
         "SUM(total_runs)": "108"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "2",
         "SUM(total_runs)": "942"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "2",
         "SUM(total_runs)": "96"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "2",
         "SUM(total_runs)": "947"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "2",
         "SUM(total_runs)": "898"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "2",
         "SUM(total_runs)": "301"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "2",
         "SUM(total_runs)": "740"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "2",
         "SUM(total_runs)": "98"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "2",
         "SUM(total_runs)": "918"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "2",
         "SUM(total_runs)": "450"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "3",
         "SUM(total_runs)": "1020"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "3",
         "SUM(total_runs)": "566"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "3",
         "SUM(total_runs)": "1012"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "3",
         "SUM(total_runs)": "154"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "3",
         "SUM(total_runs)": "1047"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "3",
         "SUM(total_runs)": "115"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "3",
         "SUM(total_runs)": "995"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "3",
         "SUM(total_runs)": "989"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "3",
         "SUM(total_runs)": "357"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "3",
         "SUM(total_runs)": "848"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "3",
         "SUM(total_runs)": "104"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "3",
         "SUM(total_runs)": "1088"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "3",
         "SUM(total_runs)": "467"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "4",
         "SUM(total_runs)": "1086"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "4",
         "SUM(total_runs)": "571"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "4",
         "SUM(total_runs)": "1068"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "4",
         "SUM(total_runs)": "135"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "4",
         "SUM(total_runs)": "1098"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "4",
         "SUM(total_runs)": "126"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "4",
         "SUM(total_runs)": "1053"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "4",
         "SUM(total_runs)": "1111"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "4",
         "SUM(total_runs)": "329"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "4",
         "SUM(total_runs)": "936"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "4",
         "SUM(total_runs)": "107"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "4",
         "SUM(total_runs)": "1099"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "4",
         "SUM(total_runs)": "484"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "5",
         "SUM(total_runs)": "1140"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "5",
         "SUM(total_runs)": "586"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "5",
         "SUM(total_runs)": "1070"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "5",
         "SUM(total_runs)": "148"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "5",
         "SUM(total_runs)": "1109"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "5",
         "SUM(total_runs)": "97"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "5",
         "SUM(total_runs)": "1025"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "5",
         "SUM(total_runs)": "1120"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "5",
         "SUM(total_runs)": "316"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "5",
         "SUM(total_runs)": "874"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "5",
         "SUM(total_runs)": "110"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "5",
         "SUM(total_runs)": "1113"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "5",
         "SUM(total_runs)": "517"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "6",
         "SUM(total_runs)": "1147"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "6",
         "SUM(total_runs)": "598"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "6",
         "SUM(total_runs)": "960"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "6",
         "SUM(total_runs)": "155"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "6",
         "SUM(total_runs)": "1151"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "6",
         "SUM(total_runs)": "143"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "6",
         "SUM(total_runs)": "968"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "6",
         "SUM(total_runs)": "1201"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "6",
         "SUM(total_runs)": "328"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "6",
         "SUM(total_runs)": "954"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "6",
         "SUM(total_runs)": "147"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "6",
         "SUM(total_runs)": "1040"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "6",
         "SUM(total_runs)": "498"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "7",
         "SUM(total_runs)": "909"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "7",
         "SUM(total_runs)": "472"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "7",
         "SUM(total_runs)": "961"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "7",
         "SUM(total_runs)": "146"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "7",
         "SUM(total_runs)": "908"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "7",
         "SUM(total_runs)": "89"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "7",
         "SUM(total_runs)": "869"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "7",
         "SUM(total_runs)": "899"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "7",
         "SUM(total_runs)": "246"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "7",
         "SUM(total_runs)": "776"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "7",
         "SUM(total_runs)": "106"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "7",
         "SUM(total_runs)": "855"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "7",
         "SUM(total_runs)": "383"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "8",
         "SUM(total_runs)": "970"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "8",
         "SUM(total_runs)": "539"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "8",
         "SUM(total_runs)": "920"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "8",
         "SUM(total_runs)": "128"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "8",
         "SUM(total_runs)": "1032"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "8",
         "SUM(total_runs)": "86"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "8",
         "SUM(total_runs)": "836"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "8",
         "SUM(total_runs)": "953"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "8",
         "SUM(total_runs)": "317"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "8",
         "SUM(total_runs)": "826"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "8",
         "SUM(total_runs)": "113"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "8",
         "SUM(total_runs)": "1028"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "8",
         "SUM(total_runs)": "403"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "9",
         "SUM(total_runs)": "980"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "9",
         "SUM(total_runs)": "519"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "9",
         "SUM(total_runs)": "985"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "9",
         "SUM(total_runs)": "97"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "9",
         "SUM(total_runs)": "985"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "9",
         "SUM(total_runs)": "88"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "9",
         "SUM(total_runs)": "882"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "9",
         "SUM(total_runs)": "987"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "9",
         "SUM(total_runs)": "296"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "9",
         "SUM(total_runs)": "873"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "9",
         "SUM(total_runs)": "111"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "9",
         "SUM(total_runs)": "1097"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "9",
         "SUM(total_runs)": "425"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "10",
         "SUM(total_runs)": "902"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "10",
         "SUM(total_runs)": "502"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "10",
         "SUM(total_runs)": "950"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "10",
         "SUM(total_runs)": "130"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "10",
         "SUM(total_runs)": "997"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "10",
         "SUM(total_runs)": "77"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "10",
         "SUM(total_runs)": "922"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "10",
         "SUM(total_runs)": "959"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "10",
         "SUM(total_runs)": "285"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "10",
         "SUM(total_runs)": "931"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "10",
         "SUM(total_runs)": "84"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "10",
         "SUM(total_runs)": "1023"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "10",
         "SUM(total_runs)": "406"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "11",
         "SUM(total_runs)": "975"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "11",
         "SUM(total_runs)": "563"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "11",
         "SUM(total_runs)": "1017"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "11",
         "SUM(total_runs)": "117"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "11",
         "SUM(total_runs)": "1064"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "11",
         "SUM(total_runs)": "81"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "11",
         "SUM(total_runs)": "949"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "11",
         "SUM(total_runs)": "976"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "11",
         "SUM(total_runs)": "319"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "11",
         "SUM(total_runs)": "890"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "11",
         "SUM(total_runs)": "113"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "11",
         "SUM(total_runs)": "1099"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "11",
         "SUM(total_runs)": "393"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "12",
         "SUM(total_runs)": "1029"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "12",
         "SUM(total_runs)": "623"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "12",
         "SUM(total_runs)": "992"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "12",
         "SUM(total_runs)": "108"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "12",
         "SUM(total_runs)": "1030"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "12",
         "SUM(total_runs)": "104"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "12",
         "SUM(total_runs)": "948"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "12",
         "SUM(total_runs)": "1138"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "12",
         "SUM(total_runs)": "324"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "12",
         "SUM(total_runs)": "950"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "12",
         "SUM(total_runs)": "93"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "12",
         "SUM(total_runs)": "1003"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "12",
         "SUM(total_runs)": "439"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "13",
         "SUM(total_runs)": "989"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "13",
         "SUM(total_runs)": "521"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "13",
         "SUM(total_runs)": "1036"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "13",
         "SUM(total_runs)": "107"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "13",
         "SUM(total_runs)": "1040"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "13",
         "SUM(total_runs)": "108"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "13",
         "SUM(total_runs)": "1022"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "13",
         "SUM(total_runs)": "1113"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "13",
         "SUM(total_runs)": "306"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "13",
         "SUM(total_runs)": "920"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "13",
         "SUM(total_runs)": "91"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "13",
         "SUM(total_runs)": "1071"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "13",
         "SUM(total_runs)": "404"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "14",
         "SUM(total_runs)": "1085"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "14",
         "SUM(total_runs)": "569"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "14",
         "SUM(total_runs)": "995"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "14",
         "SUM(total_runs)": "128"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "14",
         "SUM(total_runs)": "1069"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "14",
         "SUM(total_runs)": "86"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "14",
         "SUM(total_runs)": "961"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "14",
         "SUM(total_runs)": "1100"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "14",
         "SUM(total_runs)": "311"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "14",
         "SUM(total_runs)": "969"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "14",
         "SUM(total_runs)": "75"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "14",
         "SUM(total_runs)": "1145"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "14",
         "SUM(total_runs)": "448"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "15",
         "SUM(total_runs)": "1113"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "15",
         "SUM(total_runs)": "605"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "15",
         "SUM(total_runs)": "880"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "15",
         "SUM(total_runs)": "112"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "15",
         "SUM(total_runs)": "1085"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "15",
         "SUM(total_runs)": "112"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "15",
         "SUM(total_runs)": "1031"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "15",
         "SUM(total_runs)": "1195"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "15",
         "SUM(total_runs)": "326"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "15",
         "SUM(total_runs)": "983"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "15",
         "SUM(total_runs)": "109"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "15",
         "SUM(total_runs)": "1148"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "15",
         "SUM(total_runs)": "563"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "16",
         "SUM(total_runs)": "1106"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "16",
         "SUM(total_runs)": "594"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "16",
         "SUM(total_runs)": "1008"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "16",
         "SUM(total_runs)": "137"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "16",
         "SUM(total_runs)": "1115"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "16",
         "SUM(total_runs)": "53"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "16",
         "SUM(total_runs)": "1059"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "16",
         "SUM(total_runs)": "1239"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "16",
         "SUM(total_runs)": "373"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "16",
         "SUM(total_runs)": "922"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "16",
         "SUM(total_runs)": "87"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "16",
         "SUM(total_runs)": "1241"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "16",
         "SUM(total_runs)": "508"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "17",
         "SUM(total_runs)": "1226"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "17",
         "SUM(total_runs)": "702"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "17",
         "SUM(total_runs)": "1042"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "17",
         "SUM(total_runs)": "131"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "17",
         "SUM(total_runs)": "1129"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "17",
         "SUM(total_runs)": "82"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "17",
         "SUM(total_runs)": "1170"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "17",
         "SUM(total_runs)": "1276"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "17",
         "SUM(total_runs)": "323"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "17",
         "SUM(total_runs)": "1013"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "17",
         "SUM(total_runs)": "113"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "17",
         "SUM(total_runs)": "1198"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "17",
         "SUM(total_runs)": "479"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "18",
         "SUM(total_runs)": "1198"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "18",
         "SUM(total_runs)": "671"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "18",
         "SUM(total_runs)": "1055"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "18",
         "SUM(total_runs)": "122"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "18",
         "SUM(total_runs)": "1135"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "18",
         "SUM(total_runs)": "85"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "18",
         "SUM(total_runs)": "1149"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "18",
         "SUM(total_runs)": "1291"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "18",
         "SUM(total_runs)": "348"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "18",
         "SUM(total_runs)": "916"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "18",
         "SUM(total_runs)": "129"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "18",
         "SUM(total_runs)": "1314"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "18",
         "SUM(total_runs)": "542"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "19",
         "SUM(total_runs)": "1205"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "19",
         "SUM(total_runs)": "610"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "19",
         "SUM(total_runs)": "1006"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "19",
         "SUM(total_runs)": "103"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "19",
         "SUM(total_runs)": "1083"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "19",
         "SUM(total_runs)": "94"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "19",
         "SUM(total_runs)": "967"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "19",
         "SUM(total_runs)": "1295"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "19",
         "SUM(total_runs)": "351"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "19",
         "SUM(total_runs)": "866"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "19",
         "SUM(total_runs)": "77"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "19",
         "SUM(total_runs)": "1228"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "19",
         "SUM(total_runs)": "608"
     },
     {
-        "batting_team": "Chennai Super Kings",
+        "batting_team": "CSK",
         "over": "20",
         "SUM(total_runs)": "1191"
     },
     {
-        "batting_team": "Deccan Chargers",
+        "batting_team": "DC",
         "over": "20",
         "SUM(total_runs)": "556"
     },
     {
-        "batting_team": "Delhi Daredevils",
+        "batting_team": "DD",
         "over": "20",
         "SUM(total_runs)": "906"
     },
     {
-        "batting_team": "Gujarat Lions",
+        "batting_team": "GL",
         "over": "20",
         "SUM(total_runs)": "88"
     },
     {
-        "batting_team": "Kings XI Punjab",
+        "batting_team": "KXP",
         "over": "20",
         "SUM(total_runs)": "1029"
     },
     {
-        "batting_team": "Kochi Tuskers Kerala",
+        "batting_team": "KT",
         "over": "20",
         "SUM(total_runs)": "76"
     },
     {
-        "batting_team": "Kolkata Knight Riders",
+        "batting_team": "KKR",
         "over": "20",
         "SUM(total_runs)": "857"
     },
     {
-        "batting_team": "Mumbai Indians",
+        "batting_team": "MI",
         "over": "20",
         "SUM(total_runs)": "1228"
     },
     {
-        "batting_team": "Pune Warriors",
+        "batting_team": "PW",
         "over": "20",
         "SUM(total_runs)": "338"
     },
     {
-        "batting_team": "Rajasthan Royals",
+        "batting_team": "RR",
         "over": "20",
         "SUM(total_runs)": "803"
     },
     {
-        "batting_team": "Rising Pune Supergiants",
+        "batting_team": "RP",
         "over": "20",
         "SUM(total_runs)": "124"
     },
     {
-        "batting_team": "Royal Challengers Bangalore",
+        "batting_team": "RCB",
         "over": "20",
         "SUM(total_runs)": "1047"
     },
     {
-        "batting_team": "Sunrisers Hyderabad",
+        "batting_team": "SH",
         "over": "20",
         "SUM(total_runs)": "483"
     }]

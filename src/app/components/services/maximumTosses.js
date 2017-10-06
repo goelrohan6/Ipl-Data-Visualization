@@ -8,55 +8,55 @@
                 obj.winners = [{
                     "data": [
                         {
-                            "toss_winner": "Mumbai Indians",
+                            "toss_winner": "MI",
                             "count": "74"
                         },
                         {
-                            "toss_winner": "Kolkata Knight Riders",
+                            "toss_winner": "KKR",
                             "count": "69"
                         },
                     	{
-                            "toss_winner": "Chennai Super Kings",
+                            "toss_winner": "CSK",
                             "count": "66"
                         },
                         {
-                            "toss_winner": "Kings XI Punjab",
+                            "toss_winner": "KXP",
                             "count": "64"
                         },
                         {
-                            "toss_winner": "Delhi Daredevils",
+                            "toss_winner": "DD",
                             "count": "64"
                         },
                         {
-                            "toss_winner": "Rajasthan Royals",
+                            "toss_winner": "RR",
                             "count": "63"
                         },
                         {
-                            "toss_winner": "Royal Challengers Bangalore",
+                            "toss_winner": "RCB",
                             "count": "61"
                         },
                         {
-                            "toss_winner": "Deccan Chargers",
+                            "toss_winner": "DC",
                             "count": "43"
                         },
                         {
-                            "toss_winner": "Sunrisers Hyderabad",
+                            "toss_winner": "SH",
                             "count": "30"
                         },
                         {
-                            "toss_winner": "Pune Warriors",
+                            "toss_winner": "PW",
                             "count": "20"
                         },
                         {
-                            "toss_winner": "Gujarat Lions",
+                            "toss_winner": "GL",
                             "count": "8"
                         },
                         {
-                            "toss_winner": "Kochi Tuskers Kerala",
+                            "toss_winner": "KT",
                             "count": "8"
                         },
                         {
-                            "toss_winner": "Rising Pune Supergiants",
+                            "toss_winner": "RP",
                             "count": "7"
                         }
                     ]
