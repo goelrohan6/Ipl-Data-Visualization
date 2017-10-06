@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"4.7.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"ipl"},
+{"type":"table","name":"SIX","database":"ipl","data":
+[
+{"season":"2008","sixes":"618","fours":"1726"},
+{"season":"2009","sixes":"504","fours":"1341"},
+{"season":"2010","sixes":"585","fours":"1729"},
+{"season":"2011","sixes":"634","fours":"1950"},
+{"season":"2012","sixes":"728","fours":"1932"},
+{"season":"2013","sixes":"677","fours":"2083"},
+{"season":"2014","sixes":"711","fours":"1591"},
+{"season":"2015","sixes":"689","fours":"1630"},
+{"season":"2016","sixes":"638","fours":"1643"}
+]
+}
+]

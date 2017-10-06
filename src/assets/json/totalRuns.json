@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"4.7.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"ipl"},
+{"type":"table","name":"matches","database":"ipl","data":
+[
+{"season":"2008","SUM(deliveries.total_runs)":"17937"},
+{"season":"2009","SUM(deliveries.total_runs)":"16353"},
+{"season":"2010","SUM(deliveries.total_runs)":"18883"},
+{"season":"2011","SUM(deliveries.total_runs)":"21154"},
+{"season":"2012","SUM(deliveries.total_runs)":"22453"},
+{"season":"2013","SUM(deliveries.total_runs)":"22602"},
+{"season":"2014","SUM(deliveries.total_runs)":"18931"},
+{"season":"2015","SUM(deliveries.total_runs)":"18353"},
+{"season":"2016","SUM(deliveries.total_runs)":"18862"}
+]
+}
+]

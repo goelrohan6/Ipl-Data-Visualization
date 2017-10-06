@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"4.7.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"ipl"},
+{"type":"table","name":"Matches","database":"ipl","data":
+[
+{"season":"2008","COUNT(*)":"58"},
+{"season":"2009","COUNT(*)":"57"},
+{"season":"2010","COUNT(*)":"60"},
+{"season":"2011","COUNT(*)":"73"},
+{"season":"2012","COUNT(*)":"74"},
+{"season":"2013","COUNT(*)":"76"},
+{"season":"2014","COUNT(*)":"60"},
+{"season":"2015","COUNT(*)":"59"},
+{"season":"2016","COUNT(*)":"60"}
+]
+}
+]
