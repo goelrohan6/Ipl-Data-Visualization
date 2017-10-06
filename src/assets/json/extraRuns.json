@@ -1,0 +1,105 @@
+[
+{
+    "batting_team": "CSK",
+    "wide_runs": "585",
+    "bye_runs": "75",
+    "legbye_runs": "349",
+    "noball_runs": "68",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "DC",
+    "wide_runs": "279",
+    "bye_runs": "50",
+    "legbye_runs": "200",
+    "noball_runs": "49",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "DD",
+    "wide_runs": "617",
+    "bye_runs": "69",
+    "legbye_runs": "332",
+    "noball_runs": "65",
+    "penalty_runs": "10"
+},
+{
+    "batting_team": "GL",
+    "wide_runs": "84",
+    "bye_runs": "4",
+    "legbye_runs": "37",
+    "noball_runs": "7",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "KXP",
+    "wide_runs": "568",
+    "bye_runs": "113",
+    "legbye_runs": "403",
+    "noball_runs": "49",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "KT",
+    "wide_runs": "89",
+    "bye_runs": "7",
+    "legbye_runs": "36",
+    "noball_runs": "11",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "KKR",
+    "wide_runs": "638",
+    "bye_runs": "99",
+    "legbye_runs": "369",
+    "noball_runs": "69",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "MI",
+    "wide_runs": "700",
+    "bye_runs": "78",
+    "legbye_runs": "391",
+    "noball_runs": "77",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "PW",
+    "wide_runs": "169",
+    "bye_runs": "19",
+    "legbye_runs": "106",
+    "noball_runs": "24",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "RR",
+    "wide_runs": "494",
+    "bye_runs": "55",
+    "legbye_runs": "296",
+    "noball_runs": "74",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "RP",
+    "wide_runs": "60",
+    "bye_runs": "6",
+    "legbye_runs": "28",
+    "noball_runs": "7",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "RCB",
+    "wide_runs": "608",
+    "bye_runs": "66",
+    "legbye_runs": "351",
+    "noball_runs": "82",
+    "penalty_runs": "0"
+},
+{
+    "batting_team": "SH",
+    "wide_runs": "270",
+    "bye_runs": "39",
+    "legbye_runs": "158",
+    "noball_runs": "30",
+    "penalty_runs": "0"
+}]
