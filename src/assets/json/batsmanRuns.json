@@ -1,0 +1,376 @@
+[
+{
+    "batsman_runs": "1",
+    "sum": "5877",
+    "team": "CSK"
+},		
+{
+    "batsman_runs": "1",
+    "sum": "3401",
+    "team": "DC"
+},
+{
+    "batsman_runs": "1",
+    "sum": "5790",
+    "team": "DD"
+},
+{
+    "batsman_runs": "1",
+    "sum": "708",
+    "team": "GL"
+},
+{
+    "batsman_runs": "1",
+    "sum": "5757",
+    "team": "KXP"
+},
+{
+    "batsman_runs": "1",
+    "sum": "572",
+    "team": "KT"
+},
+{
+    "batsman_runs": "1",
+    "sum": "5780",
+    "team": "KKR"
+},
+{
+    "batsman_runs": "1",
+    "sum": "6059",
+    "team": "MI"
+},
+{
+    "batsman_runs": "1",
+    "sum": "1999",
+    "team": "PW"
+},
+{
+    "batsman_runs": "1",
+    "sum": "4959",
+    "team": "RR"
+},
+{
+    "batsman_runs": "1",
+    "sum": "613",
+    "team": "RP"
+},
+{
+    "batsman_runs": "1",
+    "sum": "5790",
+    "team": "RCB"
+},
+{
+    "batsman_runs": "1",
+    "sum": "2805",
+    "team": "SH"
+},
+{
+    "batsman_runs": "2",
+    "sum": "2220",
+    "team": "CSK"
+},
+{
+    "batsman_runs": "2",
+    "sum": "1126",
+    "team": "DC"
+},
+{
+    "batsman_runs": "2",
+    "sum": "2018",
+    "team": "DD"
+},
+{
+    "batsman_runs": "2",
+    "sum": "246",
+    "team": "GL"
+},
+{
+    "batsman_runs": "2",
+    "sum": "2156",
+    "team": "KXP"
+},
+{
+    "batsman_runs": "2",
+    "sum": "170",
+    "team": "KT"
+},
+{
+    "batsman_runs": "2",
+    "sum": "1896",
+    "team": "KKR"
+},
+{
+    "batsman_runs": "2",
+    "sum": "1994",
+    "team": "MI"
+},
+{
+    "batsman_runs": "2",
+    "sum": "704",
+    "team": "PW"
+},
+{
+    "batsman_runs": "2",
+    "sum": "1878",
+    "team": "RR"
+},
+{
+    "batsman_runs": "2",
+    "sum": "236",
+    "team": "RP"
+},
+{
+    "batsman_runs": "2",
+    "sum": "2008",
+    "team": "RCB"
+},
+{
+    "batsman_runs": "2",
+    "sum": "1032",
+    "team": "SH"
+},
+{
+    "batsman_runs": "3",
+    "sum": "183",
+    "team": "CSK"
+},
+{
+    "batsman_runs": "3",
+    "sum": "105",
+    "team": "DC"
+},
+{
+    "batsman_runs": "3",
+    "sum": "147",
+    "team": "DD"
+},
+{
+    "batsman_runs": "3",
+    "sum": "18",
+    "team": "GL"
+},
+{
+    "batsman_runs": "3",
+    "sum": "165",
+    "team": "KXP"
+},
+{
+    "batsman_runs": "3",
+    "sum": "18",
+    "team": "KT"
+},
+{
+    "batsman_runs": "3",
+    "sum": "153",
+    "team": "KKR"
+},
+{
+    "batsman_runs": "3",
+    "sum": "159",
+    "team": "MI"
+},
+{
+    "batsman_runs": "3",
+    "sum": "51",
+    "team": "PW"
+},
+{
+    "batsman_runs": "3",
+    "sum": "189",
+    "team": "RR"
+},
+{
+    "batsman_runs": "3",
+    "sum": "21",
+    "team": "RP"
+},
+{
+    "batsman_runs": "3",
+    "sum": "126",
+    "team": "RCB"
+},
+{
+    "batsman_runs": "3",
+    "sum": "84",
+    "team": "SH"
+},
+{
+    "batsman_runs": "4",
+    "sum": "7080",
+    "team": "CSK"
+},
+{
+    "batsman_runs": "4",
+    "sum": "3828",
+    "team": "DC"
+},
+{
+    "batsman_runs": "4",
+    "sum": "7072",
+    "team": "DD"
+},
+{
+    "batsman_runs": "4",
+    "sum": "968",
+    "team": "GL"
+},
+{
+    "batsman_runs": "4",
+    "sum": "7576",
+    "team": "KXP"
+},
+{
+    "batsman_runs": "4",
+    "sum": "680",
+    "team": "KT"
+},
+{
+    "batsman_runs": "4",
+    "sum": "7000",
+    "team": "KKR"
+},
+{
+    "batsman_runs": "4",
+    "sum": "7680",
+    "team": "MI"
+},
+{
+    "batsman_runs": "4",
+    "sum": "2100",
+    "team": "PW"
+},
+{
+    "batsman_runs": "4",
+    "sum": "6520",
+    "team": "RR"
+},
+{
+    "batsman_runs": "4",
+    "sum": "684",
+    "team": "RP"
+},
+{
+    "batsman_runs": "4",
+    "sum": "7380",
+    "team": "RCB"
+},
+{
+    "batsman_runs": "4",
+    "sum": "3116",
+    "team": "SH"
+},
+{
+    "batsman_runs": "5",
+    "sum": "10",
+    "team": "CSK"
+},
+{
+    "batsman_runs": "5",
+    "sum": "25",
+    "team": "DC"
+},
+{
+    "batsman_runs": "5",
+    "sum": "20",
+    "team": "DD"
+},
+{
+    "batsman_runs": "5",
+    "sum": "30",
+    "team": "KXP"
+},
+{
+    "batsman_runs": "5",
+    "sum": "45",
+    "team": "KKR"
+},
+{
+    "batsman_runs": "5",
+    "sum": "35",
+    "team": "MI"
+},
+{
+    "batsman_runs": "5",
+    "sum": "10",
+    "team": "PW"
+},
+{
+    "batsman_runs": "5",
+    "sum": "10",
+    "team": "RR"
+},
+{
+    "batsman_runs": "5",
+    "sum": "20",
+    "team": "RCB"
+},
+{
+    "batsman_runs": "5",
+    "sum": "5",
+    "team": "SH"
+},
+{
+    "batsman_runs": "6",
+    "sum": "4452",
+    "team": "CSK"
+},
+{
+    "batsman_runs": "6",
+    "sum": "2400",
+    "team": "DC"
+},
+{
+    "batsman_runs": "6",
+    "sum": "3594",
+    "team": "DD"
+},
+{
+    "batsman_runs": "6",
+    "sum": "378",
+    "team": "GL"
+},
+{
+    "batsman_runs": "6",
+    "sum": "4044",
+    "team": "KXP"
+},
+{
+    "batsman_runs": "6",
+    "sum": "318",
+    "team": "KT"
+},
+{
+    "batsman_runs": "6",
+    "sum": "3432",
+    "team": "KKR"
+},
+{
+    "batsman_runs": "6",
+    "sum": "4548",
+    "team": "MI"
+},
+{
+    "batsman_runs": "6",
+    "sum": "1176",
+    "team": "PW"
+},
+{
+    "batsman_runs": "6",
+    "sum": "3228",
+    "team": "RR"
+},
+{
+    "batsman_runs": "6",
+    "sum": "408",
+    "team": "RP"
+},
+{
+    "batsman_runs": "6",
+    "sum": "5160",
+    "team": "RCB"
+},
+{
+    "batsman_runs": "6",
+    "sum": "1764",
+    "team": "SH"
+}]
