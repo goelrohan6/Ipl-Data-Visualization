@@ -5,56 +5,56 @@
         .service('maximumTosses', [
             function() {
                 var obj = {};
-                obj.winners = [{
-                        "toss_winner": "MI",
+                obj.data = [{
+                        "labelX": "MI",
                         "count": "74"
                     },
                     {
-                        "toss_winner": "KKR",
+                        "labelX": "KKR",
                         "count": "69"
                     },
                     {
-                        "toss_winner": "CSK",
+                        "labelX": "CSK",
                         "count": "66"
                     },
                     {
-                        "toss_winner": "KXP",
+                        "labelX": "KXP",
                         "count": "64"
                     },
                     {
-                        "toss_winner": "DD",
+                        "labelX": "DD",
                         "count": "64"
                     },
                     {
-                        "toss_winner": "RR",
+                        "labelX": "RR",
                         "count": "63"
                     },
                     {
-                        "toss_winner": "RCB",
+                        "labelX": "RCB",
                         "count": "61"
                     },
                     {
-                        "toss_winner": "DC",
+                        "labelX": "DC",
                         "count": "43"
                     },
                     {
-                        "toss_winner": "SH",
+                        "labelX": "SH",
                         "count": "30"
                     },
                     {
-                        "toss_winner": "PW",
+                        "labelX": "PW",
                         "count": "20"
                     },
                     {
-                        "toss_winner": "GL",
+                        "labelX": "GL",
                         "count": "8"
                     },
                     {
-                        "toss_winner": "KT",
+                        "labelX": "KT",
                         "count": "8"
                     },
                     {
-                        "toss_winner": "RP",
+                        "labelX": "RP",
                         "count": "7"
                     }
                 ];

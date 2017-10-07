@@ -1,144 +1,141 @@
 [
 {
-    "data": [
-    {
-        "venue": "M Chinnaswamy Stadium",
-        "total": "58"
-    },
-    {
-        "venue": "Eden Gardens",
-        "total": "54"
-    },
-    {
-        "venue": "Feroz Shah Kotla",
-        "total": "53"
-    },
-    {
-        "venue": "Wankhede Stadium",
-        "total": "49"
-    },
-    {
-        "venue": "MA Chidambaram Stadium, Chepauk",
-        "total": "48"
-    },
-    {
-        "venue": "Rajiv Gandhi International Stadium, Uppal",
-        "total": "41"
-    },
-    {
-        "venue": "Punjab Cricket Association Stadium, Mohali",
-        "total": "35"
-    },
-    {
-        "venue": "Sawai Mansingh Stadium",
-        "total": "33"
-    },
-    {
-        "venue": "Dr DY Patil Sports Academy",
-        "total": "17"
-    },
-    {
-        "venue": "Subrata Roy Sahara Stadium",
-        "total": "17"
-    },
-    {
-        "venue": "Kingsmead",
-        "total": "15"
-    },
-    {
-        "venue": "Sardar Patel Stadium, Motera",
-        "total": "12"
-    },
-    {
-        "venue": "SuperSport Park",
-        "total": "12"
-    },
-    {
-        "venue": "Brabourne Stadium",
-        "total": "11"
-    },
-    {
-        "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
-        "total": "11"
-    },
-    {
-        "venue": "Himachal Pradesh Cricket Association Stadium",
-        "total": "9"
-    },
-    {
-        "venue": "New Wanderers Stadium",
-        "total": "8"
-    },
-    {
-        "venue": "Maharashtra Cricket Association Stadium",
-        "total": "8"
-    },
-    {
-        "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-        "total": "7"
-    },
-    {
-        "venue": "Sheikh Zayed Stadium",
-        "total": "7"
-    },
-    {
-        "venue": "Barabati Stadium",
-        "total": "7"
-    },
-    {
-        "venue": "St George's Park",
-        "total": "7"
-    },
-    {
-        "venue": "Dubai International Cricket Stadium",
-        "total": "7"
-    },
-    {
-        "venue": "JSCA International Stadium Complex",
-        "total": "7"
-    },
-    {
-        "venue": "Newlands",
-        "total": "7"
-    },
-    {
-        "venue": "Sharjah Cricket Stadium",
-        "total": "6"
-    },
-    {
-        "venue": "Shaheed Veer Narayan Singh International Stadium",
-        "total": "6"
-    },
-    {
-        "venue": "Nehru Stadium",
-        "total": "5"
-    },
-    {
-        "venue": "Saurashtra Cricket Association Stadium",
-        "total": "5"
-    },
-    {
-        "venue": "Vidarbha Cricket Association Stadium, Jamtha",
-        "total": "3"
-    },
-    {
-        "venue": "Buffalo Park",
-        "total": "3"
-    },
-    {
-        "venue": "De Beers Diamond Oval",
-        "total": "3"
-    },
-    {
-        "venue": "Holkar Cricket Stadium",
-        "total": "2"
-    },
-    {
-        "venue": "Green Park",
-        "total": "2"
-    },
-    {
-        "venue": "OUTsurance Oval",
-        "total": "2"
-    }]
+    "labelX": "M Chinnaswamy Stadium",
+    "count": "58"
+},
+{
+    "labelX": "Eden Gardens",
+    "count": "54"
+},
+{
+    "labelX": "Feroz Shah Kotla",
+    "count": "53"
+},
+{
+    "labelX": "Wankhede Stadium",
+    "count": "49"
+},
+{
+    "labelX": "MA Chidambaram Stadium, Chepauk",
+    "count": "48"
+},
+{
+    "labelX": "Rajiv Gandhi International Stadium, Uppal",
+    "count": "41"
+},
+{
+    "labelX": "Punjab Cricket Association Stadium, Mohali",
+    "count": "35"
+},
+{
+    "labelX": "Sawai Mansingh Stadium",
+    "count": "33"
+},
+{
+    "labelX": "Dr DY Patil Sports Academy",
+    "count": "17"
+},
+{
+    "labelX": "Subrata Roy Sahara Stadium",
+    "count": "17"
+},
+{
+    "labelX": "Kingsmead",
+    "count": "15"
+},
+{
+    "labelX": "Sardar Patel Stadium, Motera",
+    "count": "12"
+},
+{
+    "labelX": "SuperSport Park",
+    "count": "12"
+},
+{
+    "labelX": "Brabourne Stadium",
+    "count": "11"
+},
+{
+    "labelX": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "count": "11"
+},
+{
+    "labelX": "Himachal Pradesh Cricket Association Stadium",
+    "count": "9"
+},
+{
+    "labelX": "New Wanderers Stadium",
+    "count": "8"
+},
+{
+    "labelX": "Maharashtra Cricket Association Stadium",
+    "count": "8"
+},
+{
+    "labelX": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "count": "7"
+},
+{
+    "labelX": "Sheikh Zayed Stadium",
+    "count": "7"
+},
+{
+    "labelX": "Barabati Stadium",
+    "count": "7"
+},
+{
+    "labelX": "St George's Park",
+    "count": "7"
+},
+{
+    "labelX": "Dubai International Cricket Stadium",
+    "count": "7"
+},
+{
+    "labelX": "JSCA International Stadium Complex",
+    "count": "7"
+},
+{
+    "labelX": "Newlands",
+    "count": "7"
+},
+{
+    "labelX": "Sharjah Cricket Stadium",
+    "count": "6"
+},
+{
+    "labelX": "Shaheed Veer Narayan Singh International Stadium",
+    "count": "6"
+},
+{
+    "labelX": "Nehru Stadium",
+    "count": "5"
+},
+{
+    "labelX": "Saurashtra Cricket Association Stadium",
+    "count": "5"
+},
+{
+    "labelX": "Vidarbha Cricket Association Stadium, Jamtha",
+    "count": "3"
+},
+{
+    "labelX": "Buffalo Park",
+    "count": "3"
+},
+{
+    "labelX": "De Beers Diamond Oval",
+    "count": "3"
+},
+{
+    "labelX": "Holkar Cricket Stadium",
+    "count": "2"
+},
+{
+    "labelX": "Green Park",
+    "count": "2"
+},
+{
+    "labelX": "OUTsurance Oval",
+    "count": "2"
 }]
