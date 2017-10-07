@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('iplApp', ['ngTouch', 'ngAnimate',
- 'ui.router', 'ui.bootstrap', 'chart.js', 'app'])
+ 'ui.router', 'ui.bootstrap', 'chart.js', 'nvd3', 'app'])
 
   .config(function ($stateProvider, $urlRouterProvider, ChartJsProvider) {
     //ChartJs configs
