@@ -5,7 +5,7 @@
         .service('boxPlotTeams', [
             function() {
                 var obj = {};
-                obj.teams = [{
+                obj.data = [{
                         label: "CSK",
                         values: {
                             whisker_high: 246,
