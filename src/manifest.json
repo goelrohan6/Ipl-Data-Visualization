@@ -1,0 +1,18 @@
+{
+    "name": "Ipl Data Visualization",
+    "short_name": "Ipl Data App",
+    "description": "An app to visualize Ipl Data",
+    "icons": [
+        {
+            "src": "/dist/assets/images/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/#!/teams",
+    "permissions": ["storage"],
+    "orientation": "portrait",
+    "display": "standalone",
+    "theme_color": "#2d3f51",
+    "background_color": "#2d3f51"
+}
