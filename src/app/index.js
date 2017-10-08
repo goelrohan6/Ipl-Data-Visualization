@@ -15,14 +15,6 @@ angular.module('iplApp', ['ngTouch', 'ngAnimate',
         controllerAs: 'vm',
         abstract: true
       })
-      .state('home.dashboard', {
-        url: '/dashboard',
-        templateUrl: 'app/views/dashboard.html',
-        controller: 'DashboardController',
-        data: {
-          title: 'Dashboard'
-        }
-      })
       .state('home.teams', {
         url: '/teams',
         templateUrl: 'app/views/teams.html',
@@ -48,5 +40,5 @@ angular.module('iplApp', ['ngTouch', 'ngAnimate',
       })
 
 
-    $urlRouterProvider.otherwise('/dashboard');
+    $urlRouterProvider.otherwise('/teams');
   });
