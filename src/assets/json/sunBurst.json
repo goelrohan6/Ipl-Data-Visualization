@@ -1,12 +1,12 @@
 [
 {
-    "name": "Total Runs",
+    "name": "Total Hits",
     "children": [
     {
         "name": "RP",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -70,7 +70,7 @@
         "name": "PW",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -134,7 +134,7 @@
         "name": "CSK",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -198,7 +198,7 @@
         "name": "DD",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -262,7 +262,7 @@
         "name": "RR",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -326,7 +326,7 @@
         "name": "MI",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -390,7 +390,7 @@
         "name": "DC",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -454,7 +454,7 @@
         "name": "KKR",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -518,7 +518,7 @@
         "name": "SH",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -582,7 +582,7 @@
         "name": "KT",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -646,7 +646,7 @@
         "name": "KXP",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -710,7 +710,7 @@
         "name": "GL",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",
@@ -774,7 +774,7 @@
         "name": "RCB",
         "children": [
         {
-            "name": "Batsman Runs",
+            "name": "Batsman Hits",
             "children": [
             {
                 "name": "Boundries",

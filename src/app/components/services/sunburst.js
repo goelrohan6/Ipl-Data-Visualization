@@ -6,11 +6,11 @@
             function() {
                 var obj = {};
                 obj.data = [{
-                    "name": "Total Runs",
+                    "name": "Total Hits",
                     "children": [{
                             "name": "RP",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -74,7 +74,7 @@
                         {
                             "name": "PW",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -138,7 +138,7 @@
                         {
                             "name": "CSK",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -202,7 +202,7 @@
                         {
                             "name": "DD",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -266,7 +266,7 @@
                         {
                             "name": "RR",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -330,7 +330,7 @@
                         {
                             "name": "MI",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -394,7 +394,7 @@
                         {
                             "name": "DC",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -458,7 +458,7 @@
                         {
                             "name": "KKR",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -522,7 +522,7 @@
                         {
                             "name": "SH",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -586,7 +586,7 @@
                         {
                             "name": "KT",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -650,7 +650,7 @@
                         {
                             "name": "KXP",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -714,7 +714,7 @@
                         {
                             "name": "GL",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{
@@ -778,7 +778,7 @@
                         {
                             "name": "RCB",
                             "children": [{
-                                    "name": "Batsman Runs",
+                                    "name": "Batsman Hits",
                                     "children": [{
                                             "name": "Boundries",
                                             "children": [{

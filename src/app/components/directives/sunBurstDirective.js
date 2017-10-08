@@ -12,14 +12,13 @@
             controller: function($scope, sunburst) {
                 $scope.subBurstData = sunburst.data;
                 $scope.sunBurstOptions = {
-                        chart: {
-                            type: 'sunburstChart',
-                            height: 450,
-                            color: d3.scale.category20c(),
-                            duration: 250
-                        }
-                    };
-
+                    chart: {
+                        type: 'sunburstChart',
+                        height: 450,
+                        color: d3.scale.category20c(),
+                        duration: 250
+                    }
+                };
             }
         };
     });
