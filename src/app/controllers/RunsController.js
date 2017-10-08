@@ -18,9 +18,7 @@
         //Deliveries Start
         $scope.selectTeam = function(team) {
             $scope.team = team;
-            console.log(deliveries.data[team]);
             $scope.data = deliveries.data[team];
-            console.log($scope.data);
         }
         $scope.options = {
             chart: {
