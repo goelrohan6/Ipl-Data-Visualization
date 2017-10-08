@@ -26,19 +26,27 @@ angular.module('iplApp', ['ngTouch', 'ngAnimate',
       .state('home.teams', {
         url: '/teams',
         templateUrl: 'app/views/teams.html',
-        controller: 'TeamsController',
         data: {
           title: 'Dashboard'
         }
       })
       .state('home.matches', {
         url: '/matches',
-        templateUrl: 'app/views/teams.html',
+        templateUrl: 'app/views/matches.html',
         controller: 'MatchesController',
         data: {
           title: 'Dashboard'
         }
       })
+      .state('home.runs', {
+        url: '/runs',
+        templateUrl: 'app/views/runs.html',
+        controller: 'RunsController',
+        data: {
+          title: 'Dashboard'
+        }
+      })
+
 
     $urlRouterProvider.otherwise('/dashboard');
   });

@@ -7,19 +7,16 @@
             'maximumTosses',
             'tossDecisions',
             'matchesPlayed',
-            'totalRuns',
             'favGrounds',
             'playerOfMatch',
             MatchesController
         ]);
 
-    function MatchesController($scope, maximumTosses, tossDecisions, matchesPlayed, totalRuns, favGrounds, playerOfMatch) {
+    function MatchesController($scope, maximumTosses, tossDecisions, matchesPlayed, favGrounds, playerOfMatch) {
         var vm = this;
         //Directive bar graph
         $scope.tosses = maximumTosses.data;
         $scope.matchesPlayed = matchesPlayed.data;
-        $scope.totalRuns = totalRuns.data;
-        $scope.totalRuns = totalRuns.data;
         $scope.favGrounds = favGrounds.data;
         $scope.playerOfMatch = playerOfMatch.data;
         
