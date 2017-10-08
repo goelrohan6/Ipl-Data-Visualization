@@ -19,6 +19,27 @@
             [],
             []
         ];
+        $scope.options = {
+            scales: {
+                yAxes: [{
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'Total'
+                    }
+                }],
+                xAxes: [{
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'Season'
+                    }
+                }]
+            },
+            legend: {
+                display: true,
+                position:'top'
+            },
+            elements: { line: { tension: 0 } }
+        };
         sixesFours.data.forEach(function(item, index) {
             $scope.data[0][index] = item.fours;
             $scope.data[1][index] = item.sixes;

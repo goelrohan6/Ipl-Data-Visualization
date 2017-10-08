@@ -19,11 +19,31 @@
         $scope.matchesPlayed = matchesPlayed.data;
         $scope.favGrounds = favGrounds.data;
         $scope.playerOfMatch = playerOfMatch.data;
-        
+
         //HORIZONTAL BAR GRAPH
         $scope.labels = ['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', ];
         $scope.series = ['Batting', 'Bowling'];
-
+        $scope.options = {
+            scales: {
+                yAxes: [{
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'Season'
+                    }
+                }],
+                xAxes: [{
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'Total'
+                    }
+                }]
+            },
+            legend: {
+                display: true,
+                position: 'right'
+            }
+        }
+        $scope.colors = ['#97bacd', '#bada55'];
         $scope.data = [
             [],
             []
@@ -32,7 +52,7 @@
         tossDecisions.data.forEach(function(item, index) {
             if (index % 2 == 0) {
                 $scope.data[0][i] = item.count;
-            }else{
+            } else {
                 $scope.data[1][i] = item.count;
                 i++;
             }
