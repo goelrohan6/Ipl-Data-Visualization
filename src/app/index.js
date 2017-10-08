@@ -41,7 +41,15 @@ angular.module('iplApp', ['ngTouch', 'ngAnimate',
                     title: 'Dashboard'
                 }
             })
-
-
         $urlRouterProvider.otherwise('/teams');
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service-worker.js').then(function() {
+                    //Registration was successful
+                    console.log('service worker registered');
+                })
+                .catch(function() {
+                    console.log('service worker registration failed');
+                    //registration failed :(
+                });
+        }
     });

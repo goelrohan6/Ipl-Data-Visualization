@@ -3,9 +3,9 @@
     "short_name": "Ipl Data App",
     "description": "An app to visualize Ipl Data",
     "icons": [
-        {
-            "src": "/dist/assets/images/logo.png",
-            "sizes": "192x192",
+        {   // CHANGE TO /dist/assets/images/logo.png BEFORE gulp build
+            "src": "assets/images/logo.png",
+            "sizes": "144x144",
             "type": "image/png"
         }
     ],
