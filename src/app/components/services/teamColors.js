@@ -19,7 +19,7 @@
                 obj.colors["DC"] = "#222469";
                 obj.colors["PW"] = "#393834";
                 obj.colors["KT"] = "#FDA963";
-                obj.randomColors = ["#BADA55", "F1A9A0", "#AEA8D3", "#81CFE0", "#65C6BB", "#FDE3A7",
+                obj.randomColors = ["#BADA55", "#F1A9A0", "#AEA8D3", "#81CFE0", "#65C6BB", "#FDE3A7",
                 "#00FA9A","#2D7D9A"]
                 return obj;
             }

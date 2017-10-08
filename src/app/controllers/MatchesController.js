@@ -25,8 +25,8 @@
         $scope.series = ['Batting', 'Bowling'];
 
         $scope.data = [
-            [65, 59, 80, 81, 56, 55, 40],
-            [28, 48, 40, 19, 86, 27, 90]
+            [],
+            []
         ];
         var i = 0;
         tossDecisions.data.forEach(function(item, index) {
