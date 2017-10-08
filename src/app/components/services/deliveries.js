@@ -5,8 +5,8 @@
         .service('deliveries', [
             function() {
                 var obj = {};
-                obj.CSK = [
-                    {
+                obj.data = [];
+                obj.data['CSK'] = [{
                         runs: "Zero",
                         count: 6192,
                         team: "CSK"
@@ -42,9 +42,7 @@
                         team: "CSK"
                     }
                 ];
-                obj.DC = 
-                [
-                    {
+                obj.data['DC'] = [{
                         runs: "Zero",
                         count: 3673,
                         team: "DC"
@@ -80,9 +78,7 @@
                         team: "DC"
                     }
                 ];
-                obj.DD = 
-                [
-                    {
+                obj.data['DD'] = [{
                         runs: "Zero",
                         count: 6316,
                         team: "DD"
@@ -118,9 +114,7 @@
                         team: "DD"
                     }
                 ];
-                obj.GL = 
-                [
-                    {
+                obj.data['GL'] = [{
                         runs: "Zero",
                         count: 749,
                         team: "GL"
@@ -151,9 +145,7 @@
                         team: "GL"
                     }
                 ];
-                obj.KXP = 
-                [
-                    {
+                obj.data['KXP'] = [{
                         runs: "Zero",
                         count: 6527,
                         team: "KXP"
@@ -189,9 +181,7 @@
                         team: "KXP"
                     }
                 ];
-                obj.KT = 
-                [
-                    {
+                obj.data['KT'] = [{
                         runs: "Zero",
                         count: 696,
                         team: "KT"
@@ -222,9 +212,7 @@
                         team: "KT"
                     }
                 ];
-                obj.KKR = 
-                [
-                    {
+                obj.data['KKR'] = [{
                         runs: "Zero",
                         count: 6353,
                         team: "KKR"
@@ -260,9 +248,7 @@
                         team: "KKR"
                     }
                 ];
-                obj.MI = 
-                [
-                    {
+                obj.data['MI'] = [{
                         runs: "Zero",
                         count: 7096,
                         team: "MI"
@@ -298,9 +284,7 @@
                         team: "MI"
                     }
                 ];
-                obj.PW = 
-                [
-                    {
+                obj.data['PW'] = [{
                         runs: "Zero",
                         count: 2352,
                         team: "PW"
@@ -336,9 +320,7 @@
                         team: "PW"
                     }
                 ];
-                obj.RR = 
-                [
-                    {
+                obj.data['RR'] = [{
                         runs: "Zero",
                         count: 5783,
                         team: "RR"
@@ -374,42 +356,38 @@
                         team: "RR"
                     }
                 ];
-                obj.RP = 
-                [
-                 {
-                     runs: "Zero",
-                     count: 603,
-                     team: "RP"
-                 },
-                 {
-                     runs: "One",
-                     count: 613,
-                     team: "RP"
-                 },
-                 {
-                     runs: "Two",
-                     count: 118,
-                     team: "RP"
-                 },
-                 {
-                     runs: "Three",
-                     count: 7,
-                     team: "RP"
-                 },
-                 {
-                     runs: "Four",
-                     count: 171,
-                     team: "RP"
-                 },
-                 {
-                     runs: "Six",
-                     count: 68,
-                     team: "RP"
-                 }   
-                ];
-                obj.RCB = 
-                [
+                obj.data['RP'] = [{
+                        runs: "Zero",
+                        count: 603,
+                        team: "RP"
+                    },
                     {
+                        runs: "One",
+                        count: 613,
+                        team: "RP"
+                    },
+                    {
+                        runs: "Two",
+                        count: 118,
+                        team: "RP"
+                    },
+                    {
+                        runs: "Three",
+                        count: 7,
+                        team: "RP"
+                    },
+                    {
+                        runs: "Four",
+                        count: 171,
+                        team: "RP"
+                    },
+                    {
+                        runs: "Six",
+                        count: 68,
+                        team: "RP"
+                    }
+                ];
+                obj.data['RCB'] = [{
                         runs: "Zero",
                         count: 6598,
                         team: "RCB"
@@ -443,44 +421,6 @@
                         runs: "Six",
                         count: 860,
                         team: "RCB"
-                    }
-                ];
-                obj.SH = 
-                [
-                    {
-                        runs: "Zero",
-                        count: 2956,
-                        team: "SH"
-                    },
-                    {
-                        runs: "One",
-                        count: 2805,
-                        team: "SH"
-                    },
-                    {
-                        runs: "Two",
-                        count: 516,
-                        team: "SH"
-                    },
-                    {
-                        runs: "Three",
-                        count: 28,
-                        team: "SH"
-                    },
-                    {
-                        runs: "Four",
-                        count: 779,
-                        team: "SH"
-                    },
-                    {
-                        runs: 5,
-                        count: "One",
-                        team: "SH"
-                    },
-                    {
-                        runs: "Six",
-                        count: 294,
-                        team: "SH"
                     }
                 ];
                 return obj;

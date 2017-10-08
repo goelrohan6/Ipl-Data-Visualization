@@ -6,8 +6,41 @@
         </div>
         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
             <h3>Sixes and Fours accross seasons</h3>
-            <canvas id="sixes-fours" class="chart chart-line" chart-data="data" chart-series="series" chart-labels="labels" chart-options="options">
+            <canvas id="sixes-fours" class="chart chart-line" chart-data="horiData" chart-series="horiSeries" chart-labels="horiLabels" chart-options="horiOptions">
             </canvas>
+        </div>
+    </div>
+    <div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                <nvd3 options="options" data="data"></nvd3>
+            </div>
+            <!-- <center> -->
+                <div  class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                    <div style="padding-top: 25%" class="dropdown hidden-sm hidden-xs">
+                        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                            {{team}}
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li ng-repeat="team in teams">
+                                <a ng-click="selectTeam(team)">{{team}}</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div style="padding-left:46%;margin-top: -30%" class="dropdown hidden-lg hidden-md">
+                        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                            {{team}}
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li ng-repeat="team in teams">
+                                <a ng-click="selectTeam(team)">{{team}}</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            <!-- </center> -->
         </div>
     </div>
 </div>
