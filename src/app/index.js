@@ -8,6 +8,7 @@ angular.module('iplApp', ['ngTouch', 'ngAnimate',
         //ChartJs configs
         ChartJsProvider.setOptions({ colors: ['#803690', '#00ADF9', '#DCDCDC', '#FDB45C', '#949FB1', '#4D5360'] });
         Chart.defaults.global.colors = ['#BADA55', '#3f51b5', '#4fbfbd', '#ab47bc', '#3f51b5'];
+        Chart.defaults.polarArea.animation.animateScale = true;
         //Router configs
         $stateProvider
             .state('home', {

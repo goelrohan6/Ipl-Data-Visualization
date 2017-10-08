@@ -44,26 +44,6 @@
                     {
                         "labelX": "AM Rahane",
                         "count": "12"
-                    },
-                    {
-                        "labelX": "V Kohli",
-                        "count": "11"
-                    },
-                    {
-                        "labelX": "V Sehwag",
-                        "count": "11"
-                    },
-                    {
-                        "labelX": "DR Smith",
-                        "count": "10"
-                    },
-                    {
-                        "labelX": "SR Watson",
-                        "count": "10"
-                    },
-                    {
-                        "labelX": "JH Kallis",
-                        "count": "10"
                     }
                 ];
                 return obj;

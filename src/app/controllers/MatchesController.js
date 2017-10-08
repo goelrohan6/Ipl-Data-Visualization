@@ -18,9 +18,23 @@
         $scope.tosses = maximumTosses.data;
         $scope.matchesPlayed = matchesPlayed.data;
         $scope.favGrounds = favGrounds.data;
-        $scope.playerOfMatch = playerOfMatch.data;
 
-        //HORIZONTAL BAR GRAPH
+        // Polar Graph
+        $scope.polarLabels = ["Download Sales", "In-Store Sales", "Mail-Order Sales", "Tele Sales", "Corporate Sales"];
+        $scope.polarData = [300, 500, 100, 40, 120];
+
+        playerOfMatch.data.forEach( function(element, index) {
+            $scope.polarData[index] = parseInt(element.count);
+            $scope.polarLabels[index] = element.labelX;
+        });
+        $scope.polarOptions = {
+            legend: {
+                display: true,
+                position: 'right'
+            }
+        }
+        $scope.polarColors = ['#ef5f83', '#53c0c0', '#fbcc56', '#fbcc56','#36a1eb','#97bacd', '#bada55'];
+        //Toss decisions
         $scope.labels = ['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', ];
         $scope.series = ['Batting', 'Bowling'];
         $scope.options = {
