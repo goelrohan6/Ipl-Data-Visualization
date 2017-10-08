@@ -43,7 +43,7 @@ angular.module('iplApp', ['ngTouch', 'ngAnimate',
             })
         $urlRouterProvider.otherwise('/teams');
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('service-worker.js').then(function() {
+            navigator.serviceWorker.register('/docs/service-worker.js').then(function() {
                     //Registration was successful
                     console.log('service worker registered');
                 })
