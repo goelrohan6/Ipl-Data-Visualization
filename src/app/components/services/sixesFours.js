@@ -1,0 +1,59 @@
+(function() {
+    'use strict';
+
+    angular.module('app')
+        .service('sixesFours', [
+            function() {
+                var obj = {};
+                obj.data = [{
+                    "data": [{
+                            "label": "2008",
+                            "sixes": "618",
+                            "fours": "1726"
+                        },
+                        {
+                            "label": "2009",
+                            "sixes": "504",
+                            "fours": "1341"
+                        },
+                        {
+                            "label": "2010",
+                            "sixes": "585",
+                            "fours": "1729"
+                        },
+                        {
+                            "label": "2011",
+                            "sixes": "634",
+                            "fours": "1950"
+                        },
+                        {
+                            "label": "2012",
+                            "sixes": "728",
+                            "fours": "1932"
+                        },
+                        {
+                            "label": "2013",
+                            "sixes": "677",
+                            "fours": "2083"
+                        },
+                        {
+                            "label": "2014",
+                            "sixes": "711",
+                            "fours": "1591"
+                        },
+                        {
+                            "label": "2015",
+                            "sixes": "689",
+                            "fours": "1630"
+                        },
+                        {
+                            "label": "2016",
+                            "sixes": "638",
+                            "fours": "1643"
+                        }
+                    ]
+                }];
+                return obj;
+            }
+        ]);
+})();
