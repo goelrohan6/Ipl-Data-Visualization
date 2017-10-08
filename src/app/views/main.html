@@ -18,7 +18,6 @@
             </md-button>
         </section>
     </md-toolbar> -->
-    <p>Resize window to less than 768 pixels to display mobile menu toggle button.</p>
         <nav class="navbar navbar-default" role="navigation">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" ng-click="isNavCollapsed = !isNavCollapsed">
@@ -31,8 +30,8 @@
             </div>
             <div class="collapse navbar-collapse" uib-collapse="isNavCollapsed">
                 <ul class="nav navbar-nav">
-                    <li><a href="#">Link 1</a></li>
-                    <li><a href="#">Link 2</a></li>
+                    <li><a ui-sref="home.teams">Teams</a></li>
+                    <li><a ui-sref="home.matches">Matches</a></li>
                 </ul>
             </div>
         </nav>
