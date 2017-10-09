@@ -1,14 +1,26 @@
 <div class="container-fluid">
     <div class="row jumbotron">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-            <h3>Total Runs per over by teams across all seasons</h3>
-            <season-runs></season-runs>
+            <h3>Score Distribution for each team</h3>
+            <sun-burst></sun-burst>
+            <!-- <div class="panel-footer">The second ring represents the teams, then next layer is (Batsman Runs, Extra Runs) then next layer represents</div> -->
         </div>
-        <div class="panel-body col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <pre>  
+                 Team(s)  
+                  /  \
+                 /    \
+      Batsman Runs    Extra Runs
+      /         \        \
+  Boundries   (1,2,3,4)    (wide, bye)   
+      |                  (legbye, noball)
+    (4,6)                   (penalty)
+        </pre>
             <ul class="list-group">
                 <li class="list-group-item list-group-item-success">Observations</li>
-                <li class="list-group-item">For first six overs almost all teams have an increasing score</li>
-                <li class="list-group-item">Maximum runs are being scored in the last 5 overs of the match. MI and RCB have shown a incresing trend in the runs scored throughout the match.</li>
+                <li class="list-group-item">Maximum singles are taken by CSK, 5877</li>
+                <li class="list-group-item">KKR took 5 runs 45 times followed by MI with 35</li>
+                <li class="list-group-item">MI got maximum free wide runs, 700</li>
             </ul>
         </div>
     </div>
@@ -27,26 +39,14 @@
     </div>
     <div class="row jumbotron">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-            <h3>Score Distribution for each team</h3>
-            <sun-burst></sun-burst>
-            <!-- <div class="panel-footer">The second ring represents the teams, then next layer is (Batsman Runs, Extra Runs) then next layer represents</div> -->
+            <h3>Total Runs per over by teams across all seasons</h3>
+            <season-runs></season-runs>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-            <pre>  
-                     Team(s)  
-                      /  \
-                     /    \
-          Batsman Runs    Extra Runs
-          /         \        \
-      Boundries   (1,2,3,4)    (wide, bye)   
-          |                  (legbye, noball)
-        (4,6)                   (penalty)
-            </pre>
+        <div class="panel-body col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <ul class="list-group">
                 <li class="list-group-item list-group-item-success">Observations</li>
-                <li class="list-group-item">Maximum singles are taken by CSK, 5877</li>
-                <li class="list-group-item">KKR took 5 runs 45 times followed by MI with 35</li>
-                <li class="list-group-item">MI got maximum free wide runs, 700</li>
+                <li class="list-group-item">For first six overs almost all teams have an increasing score</li>
+                <li class="list-group-item">Maximum runs are being scored in the last 5 overs of the match. MI and RCB have shown a incresing trend in the runs scored throughout the match.</li>
             </ul>
         </div>
     </div>
