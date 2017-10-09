@@ -1,6 +1,6 @@
 {
     "short_name": "Ipl App",
-    "start_url": "/#!/teams",
+    "start_url": "#!/teams",
     "name": "Ipl Data Visualization",
     "description": "An app to visualize Ipl Data",
     "icons": [
