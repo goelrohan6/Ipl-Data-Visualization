@@ -1,35 +1,39 @@
 {
-    "name": "Ipl Data Visualization",
     "short_name": "Ipl Data App",
+    "start_url": "/#!/teams",
+    "name": "Ipl Data Visualization",
     "description": "An app to visualize Ipl Data",
     "icons": [
-        {   // CHANGE TO /dist/assets/images/logo.png BEFORE gulp build
-            "src": "assets/images/logo-144.png",
-            "sizes": "144x144",
-            "type": "image/png"
-        },
-        {   // CHANGE TO /dist/assets/images/logo.png BEFORE gulp build
+        { 
             "src": "assets/images/logo-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
-        {   // CHANGE TO /dist/assets/images/logo.png BEFORE gulp build
+        { 
             "src": "assets/images/logo-256.png",
             "sizes": "256x256",
             "type": "image/png"
         },
-        {   // CHANGE TO /dist/assets/images/logo.png BEFORE gulp build
+        { 
+            "src": "assets/images/logo-384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        { 
             "src": "assets/images/logo-256.png",
             "sizes": "512x512",
             "type": "image/png"
-        }  
+        }, 
+        { 
+            "src": "assets/images/logo-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
     ],
-    "start_url": "/#!/teams",
-    "permissions": ["storage"],
-    "orientation": "portrait",
-    "display": "standalone",
     "theme_color": "#2d3f51",
-    "background_color": "#2d3f51"
+    "background_color": "#2d3f51",
+    "display": "standalone",
+    "orientation": "portrait"
 }
 
 
