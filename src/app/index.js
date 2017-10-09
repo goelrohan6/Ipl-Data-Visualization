@@ -49,7 +49,7 @@ angular.module('iplApp', ['ngTouch', 'ngAnimate',
                 })
                 .catch(function() {
                     console.log('service worker registration failed');
-                    //registration failed :(
+                    //Registration failed :(
                 });
         }
     });
