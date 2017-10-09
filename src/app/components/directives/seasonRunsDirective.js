@@ -16,10 +16,10 @@
                         type: 'stackedAreaChart',
                         height: 450,
                         margin: {
-                            top: 0,
+                            top: 50,
                             right: 20,
-                            bottom: 30,
-                            left: 40
+                            bottom: 50,
+                            left: 80
                         },
                         x: function(d) { return d[0]; },
                         y: function(d) { return d[1]; },
@@ -30,12 +30,14 @@
                         duration: 100,
                         useInteractiveGuideline: true,
                         xAxis: {
+                            axisLabel: 'Overs (1-20)',
                             showMaxMin: false,
                             tickFormat: function(d) {
                                 return d;
                             }
                         },
                         yAxis: {
+                            axisLabel: 'Sum of Runs For Each Over',
                             tickFormat: function(d) {
                                 return d;
                             }

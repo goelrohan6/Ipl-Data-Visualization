@@ -1,8 +1,8 @@
 <div class="container-fluid">
     <div class="row jumbotron">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-            <h3>Score Distribution for each team</h3>
-            <p>
+            <h3>Total Hits for each team</h3>
+            <!-- <span>
                 This graph shows the total hits for all
                 <em style="color:#3282bd;">teams</em> , the second level rings represent all the
                 <em style="color:#3282bd;">teams</em>, next segregation is (
@@ -13,20 +13,19 @@
                 <em style="color: #e65730">Non Boundries</em> (1,2,3,5);
                 <em style="color: #f48c3a">Extra runs</em>
                 <em style="color: #f48c3a"> are (wide, leg_bye, bye, no ball, penalty)</em> runs.
-            </p>
+            </span> -->
             <sun-burst></sun-burst>
-
         </div>
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <pre>  
-                 Team(s)  
+                <span style="color:#3282bd;">Team(s)</span>   
                   /  \
                  /    \
-      Batsman Runs    Extra Runs
+      <span style="color:#9ecae1">Batsman Runs</span>    <span style="color:#f48c3a">Extra Runs</span>
       /         \        \
-  Boundries   (1,2,3,4)    (wide, bye)   
-      |                  (legbye, noball)
-    (4,6)                   (penalty)
+  <span style="color:#e65730">Boundries</span>   <span style="color:#e65730">(1,2,3,4)</span>    <span style="color:#f48c3a">(wide, bye)</span>   
+      |                  <span style="color:#f48c3a">(legbye, noball)</span>
+    <span style="color:#9ecae1">(4,6)</span>                   <span style="color:#f48c3a">(penalty)</span>
         </pre>
             <ul class="list-group">
                 <li class="list-group-item list-group-item-success">Observations</li>
@@ -39,9 +38,9 @@
     <div class="row jumbotron">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <h3>Score Distribution for teams</h3>
-            <p>
+            <!-- <p>
                 This graph shows total score distribution for all teams, lowest line represents the minimum value, highest line represents the maximum value, lower quartile is the median of lower half, upper quartile is the median of upper half and the middle one is the median of all.
-            </p>
+            </p> -->
             <box-plot></box-plot>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -55,15 +54,13 @@
     <div class="row jumbotron">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <h3>Total Runs per over by teams across all seasons</h3>
-            <p>
-                The X axis represents 20 overs and the y axis represents runs scored, if you hover on the graph you can see total score per over for each team.
-            </p>
+            <span class="pull-right"><span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Try me!</span>
             <season-runs></season-runs>
         </div>
         <div class="panel-body col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <ul class="list-group">
                 <li class="list-group-item list-group-item-success">Observations</li>
-                <li class="list-group-item">For first six overs almost all teams have an increasing score</li>
+                <li class="list-group-item">For first six overs almost all teams have an increasing score which is because of the power play</li>
                 <li class="list-group-item">Maximum runs are being scored in the last 5 overs of the match. MI and RCB have shown a incresing trend in the runs scored throughout the match.</li>
             </ul>
         </div>
