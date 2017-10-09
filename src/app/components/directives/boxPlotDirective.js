@@ -19,7 +19,7 @@
                             top: 20,
                             right: 0,
                             bottom: 60,
-                            left: 60
+                            left: 40
                         },
                         useInteractiveGuideline: true,
                         xAxis: {

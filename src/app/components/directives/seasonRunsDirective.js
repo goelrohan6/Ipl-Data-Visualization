@@ -16,10 +16,10 @@
                         type: 'stackedAreaChart',
                         height: 450,
                         margin: {
-                            top: 50,
+                            top: 20,
                             right: 20,
-                            bottom: 50,
-                            left: 80
+                            bottom: 40,
+                            left: 40
                         },
                         x: function(d) { return d[0]; },
                         y: function(d) { return d[1]; },
