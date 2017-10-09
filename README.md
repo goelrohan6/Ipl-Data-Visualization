@@ -4,13 +4,13 @@ You can find my implementation [here](https://goelrohan6.github.io/Ipl-Data-Visu
 
 ## Major libraries/frameworks used
 
- - AngularJs: It has 2way data binding which comes in handy, a good component based robust app can be constucted with the use of directives and services.
- - BootStrap3: Minimal framwork to give a nice skeleton to the app and also make it mobile responsive.  
- - NVD3: AngularJS directive for NVD3 re-usable charting library (based on D3), used it because it is made around D3js which gives you a lot 
+ - `AngularJs`: It has 2way data binding which comes in handy, a good component based robust app can be constucted with the use of directives and services.
+ - `BootStrap3`: Minimal framwork to give a nice skeleton to the app and also make it mobile responsive.  
+ - `NVD3`: AngularJS directive for NVD3 re-usable charting library (based on D3), used it because it is made around D3js which gives you a lot 
   of power and also it was based on JSON API which made task's a bit easier.
- - ChartJs: It is lighweight library and was used to make some basic line, bar and polar graphs.
- - GulpJs: Used for automating repetitive tasks, the streaming build system
- - upupJs: Load website offline
+ - `ChartJs`: It is lighweight library and was used to make some basic line, bar and polar graphs.
+ - `GulpJs`: Used for automating repetitive tasks, the streaming build system
+ - `upupJs`: Load website offline
 ## Bonus Points
 
 ## Optimise load time
@@ -90,10 +90,13 @@ These images show that the service worker loads after the app has finished loadi
 	The Y axis represents the total runs scored by all teams in total and X axis shows the season.
 
 
-![PWA Audit Google chrome](https://github.com/goelrohan6/Ipl-Data-Visualization/blob/master/docs/readmeImages/tossDecisions.png "Toss Winners")
+![PWA Audit Google chrome](https://github.com/goelrohan6/Ipl-Data-Visualization/blob/master/docs/readmeImages/tossDecisions.png "Toss Decisions")
 	
-	This graph shows which how many teams chose to bat or ball after winning the toss
+	This graph shows which how many teams chose to bat or ball after winning the toss.
 
+![PWA Audit Google chrome](https://github.com/goelrohan6/Ipl-Data-Visualization/blob/master/docs/readmeImages/tossWinners.png "Toss Winners")
+	
+	X axis shows the teams and Y axis denotes the count of tosses won accross all seasons.
 
 ![PWA Audit Google chrome](https://github.com/goelrohan6/Ipl-Data-Visualization/blob/master/docs/readmeImages/favGround.png "Toss Winners")
 	
