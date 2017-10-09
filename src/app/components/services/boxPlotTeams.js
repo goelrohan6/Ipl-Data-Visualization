@@ -9,7 +9,7 @@
                         label: "CSK",
                         values: {
                             whisker_high: 246,
-                            whisker_low: 55,
+                            whisker_low: 100,
                             Q1: 141,
                             Q2: 160,
                             Q3: 180
@@ -29,7 +29,7 @@
                         label: "DD",
                         values: {
                             whisker_high: 231,
-                            whisker_low: 56,
+                            whisker_low: 66,
                             Q1: 132,
                             Q2: 150,
                             Q3: 167
@@ -119,7 +119,7 @@
                         label: "RCB",
                         values: {
                             whisker_high: 263,
-                            whisker_low: 2,
+                            whisker_low: 49,
                             Q1: 135,
                             Q2: 157,
                             Q3: 176
@@ -129,7 +129,7 @@
                         label: "SH",
                         values: {
                             whisker_high: 208,
-                            whisker_low: 44,
+                            whisker_low: 80,
                             Q1: 132,
                             Q2: 146,
                             Q3: 163

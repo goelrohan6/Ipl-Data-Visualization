@@ -1,18 +1,53 @@
 <div class="container-fluid">
-    <div class="clearfix">
-        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-            <h3>Runs Per Over By Teams Across Seasons</h3>
+    <div class="row jumbotron">
+        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+            <h3>Total Runs per over by teams across all seasons</h3>
             <season-runs></season-runs>
         </div>
+        <div class="panel-body col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-success">Observations</li>
+                <li class="list-group-item">For first six overs almost all teams have an increasing score</li>
+                <li class="list-group-item">Maximum runs are being scored in the last 5 overs of the match. MI and RCB have shown a incresing trend in the runs scored throughout the match.</li>
+            </ul>
+        </div>
     </div>
-    <div>
-        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+    <div class="row jumbotron">
+        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <h3>Score Distribution for teams</h3>
             <box-plot></box-plot>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-            <h3>Total Runs Scored By each team</h3>
-            <sun-burst></sun-burst>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <ul class="list-group">
+                <li class="list-group-item active">Observations</li>
+                <li class="list-group-item">According to Graph the batting by CSK looks to be the best</li>
+                <li class="list-group-item">Also the best average score is maintained by CSK then by MI and RP</li>
+            </ul>
         </div>
     </div>
+    <div class="row jumbotron">
+        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+            <h3>Score Distribution for each team</h3>
+            <sun-burst></sun-burst>
+            <!-- <div class="panel-footer">The second ring represents the teams, then next layer is (Batsman Runs, Extra Runs) then next layer represents</div> -->
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <pre>  
+                      Team  
+                      /  \
+                     /    \
+          Batsman Runs    Extra Runs
+          /         \        \
+      Boundries   (1,2,3,4)    (wide, bye)   
+          |                  (legbye, noball)
+        (4,6)                   (penalty)
+            </pre>
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-success">Observations</li>
+                <li class="list-group-item">According to Graph the batting by CSK looks to be the best</li>
+                <li class="list-group-item">Also the best average score is maintained by CSK then by MI and RP</li>
+            </ul>
+        </div>
+    </div>
+</div>
 </div>

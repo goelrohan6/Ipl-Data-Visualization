@@ -16,7 +16,7 @@
                         type: 'stackedAreaChart',
                         height: 450,
                         margin: {
-                            top: 20,
+                            top: 0,
                             right: 20,
                             bottom: 30,
                             left: 40
@@ -24,6 +24,8 @@
                         x: function(d) { return d[0]; },
                         y: function(d) { return d[1]; },
                         useVoronoi: false,
+                        showLegend: true,
+                        legendPosition: "right",
                         clipEdge: true,
                         duration: 100,
                         useInteractiveGuideline: true,
@@ -39,7 +41,7 @@
                             }
                         },
                         zoom: {
-                            enabled: true,
+                            enabled: false,
                             scaleExtent: [1, 10],
                             useFixedDomain: false,
                             useNiceScale: false,
