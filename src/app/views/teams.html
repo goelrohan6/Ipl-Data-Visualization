@@ -2,8 +2,20 @@
     <div class="row jumbotron">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <h3>Score Distribution for each team</h3>
+            <p>
+                This graph shows the total hits for all
+                <em style="color:#3282bd;">teams</em> , the second level rings represent all the
+                <em style="color:#3282bd;">teams</em>, next segregation is (
+                <em style="color: #9ecae1;">Batsman Runs</em> ,
+                <em style="color: #f48c3a">Extra Runs</em>),
+                <em style="color: #9ecae1;">Batsman runs</em> consist of
+                <em style="color: #9ecae1">Boundries(4,6)</em> and
+                <em style="color: #e65730">Non Boundries</em> (1,2,3,5);
+                <em style="color: #f48c3a">Extra runs</em>
+                <em style="color: #f48c3a"> are (wide, leg_bye, bye, no ball, penalty)</em> runs.
+            </p>
             <sun-burst></sun-burst>
-            <!-- <div class="panel-footer">The second ring represents the teams, then next layer is (Batsman Runs, Extra Runs) then next layer represents</div> -->
+
         </div>
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <pre>  
@@ -27,6 +39,9 @@
     <div class="row jumbotron">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <h3>Score Distribution for teams</h3>
+            <p>
+                This graph shows total score distribution for all teams, lowest line represents the minimum value, highest line represents the maximum value, lower quartile is the median of lower half, upper quartile is the median of upper half and the middle one is the median of all.
+            </p>
             <box-plot></box-plot>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -40,6 +55,9 @@
     <div class="row jumbotron">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
             <h3>Total Runs per over by teams across all seasons</h3>
+            <p>
+                The X axis represents 20 overs and the y axis represents runs scored, if you hover on the graph you can see total score per over for each team.
+            </p>
             <season-runs></season-runs>
         </div>
         <div class="panel-body col-xs-12 col-sm-12 col-md-4 col-lg-4">
