@@ -44,8 +44,8 @@ I worked on improving the load time for a better user experience.
 ## Make it offline usable.
 User can access a part of the app even when he/she is offline.
  - With service workers installed and UpUpjs we can easily make the app offline usable.
-  ![PWA Audit Google chrome](https://github.com/goelrohan6/Ipl-Data-Visualization/blob/master/docs/readmeImages/pwaAudit.png)
-  ![PWA Audit Google chrome](https://github.com/goelrohan6/Ipl-Data-Visualization/blob/master/docs/readmeImages/pwaAudit.png)
+  ![PWA Audit Google chrome](https://github.com/goelrohan6/Ipl-Data-Visualization/blob/master/docs/readmeImages/before-service.png)
+  ![PWA Audit Google chrome](https://github.com/goelrohan6/Ipl-Data-Visualization/blob/master/docs/readmeImages/afterService.png)
   
 These images show that the service worker loads after the app has finished loading.Also the gear icon shows which all scripts are used when app is offline.
 
